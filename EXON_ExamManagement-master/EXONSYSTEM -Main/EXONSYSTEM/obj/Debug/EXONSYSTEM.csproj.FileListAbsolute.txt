@@ -1,0 +1,784 @@
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\Projects\EXON\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.xml
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\Projects\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\irrKlang.NET4.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\log4net.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.EXONSYSTEM.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmConfigApplication.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmLoading.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.frmMainForm.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmAuthentication.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmNotification.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Layout.frmWaiting.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsHTML.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucQuestionsRTF.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.UCQuestionType2.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.ucRowInfor.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\EXONSYSTEM\obj\Debug\EXONSYSTEM.pdb

@@ -1,0 +1,14 @@
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.FrmMain.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.GUI.FrmQuanLyKiThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucHoanThanhKeHoach.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucThongTinKiThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucThemCaThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucThemDiaDiemThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucThemHoiDongThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.LapKeHoachKiThi.ucThemMonThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.ucChucNangQuanLy.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.ucTrangThaiKiThi.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.UC.UI.ucBtnStep.resources
+D:\main12-3\EXON_ExamManagement-master\EXON_ExamManagement\obj\Release\EXON_ExamManagement.csproj.GenerateResource.Cache

@@ -1,0 +1,1063 @@
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\CreateDBNew\newnew\CreateDB - Copy\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\Projects\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReportKey.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\tienganh\Main\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\CL.Persistance.dll
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\main12-3\EXON_ExamManagement-master\CreateDB\bin\Debug\CL.Persistance.pdb
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\main12-3\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmMain.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Design.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE80.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\stdole.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.MSXML.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReverseTransfer.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReverseTransfer.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\CreateDB.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Design.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\MetroFramework.Fonts.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EnvDTE80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\log4net.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\stdole.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.MSXML.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\VSLangProj2.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Common.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Data.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.Model.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\EXON.SubModel.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.CreateDB.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReverseTransfer.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmCheckData.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmImportRoom.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading2.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmLoading.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmReTrans.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.frmRoomConfig.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.MFrmMain.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Properties.Resources.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportComputer.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmReportKey.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.Report.frmRportAllKey.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.ucComputerConfig.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.csproj.GenerateResource.Cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\RdlCompile.compiled
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CreateDB\obj\Debug\CreateDB.pdb

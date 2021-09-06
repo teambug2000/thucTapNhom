@@ -1,0 +1,209 @@
+H:\Projects\Exam Online\EXON\EXON.Common\bin\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON\EXON.Common\bin\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON\EXON.Common\obj\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON\EXON\EXON.Common\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON\EXON\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON\EXON\EXON.Common\obj\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON\EXON\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON\EXON\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\Projects\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\Projects\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\Projects\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\Projects\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CoreCompileInputs.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CopyComplete
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb

@@ -1,0 +1,12 @@
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\BUS.dll.config
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\BUS.dll
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\BUS.pdb
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\DAO.dll
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\EntityFramework.dll
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\DAO.pdb
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\EntityFramework.xml
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\obj\Release\BUS.dll
+D:\Projects\EXON\EXONSYSTEM -Main\BUS\obj\Release\BUS.pdb

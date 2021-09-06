@@ -1,0 +1,158 @@
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csproj.CoreCompileInputs.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb

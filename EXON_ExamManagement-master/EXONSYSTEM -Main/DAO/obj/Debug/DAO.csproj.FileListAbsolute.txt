@@ -1,0 +1,135 @@
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\DAO.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EXON.Model.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EXON.Model.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\DAO\obj\Debug\DAO.pdb

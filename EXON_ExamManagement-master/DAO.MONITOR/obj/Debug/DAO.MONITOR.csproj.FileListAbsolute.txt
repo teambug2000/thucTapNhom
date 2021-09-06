@@ -1,0 +1,125 @@
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+D:\main12-3\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DAO.MONITOR\obj\Debug\DAO.MONITOR.csprojResolveAssemblyReference.cache

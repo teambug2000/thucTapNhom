@@ -1,0 +1,913 @@
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\log4net.dll
+H:\Projects\Exam Online\Release\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\Release\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\Release\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\Release\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\Release\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\Release\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\Release\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\Release\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+H:\Projects\Exam Online\Release\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.Design.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.Fonts.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.EXON.GradedEssay.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.EXON.GradedEssay.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.GradedEssay.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\MetroFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EnvDTE80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\stdole.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.MSXML.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\VSLangProj2.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.Common.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubData.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EXON.SubModel.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\log4net.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.EXON.GradedEssay.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmMain.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmSpeaking.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.frmWriting.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.Properties.Resources.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FormPrintAnswer.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\ReportRoomDiagrams.FrmSpeakingScore.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.csproj.GenerateResource.Cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\RdlCompile.compiled
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GradedEssay\obj\Debug\EXON.GradedEssay.pdb

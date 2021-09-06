@@ -1,0 +1,101 @@
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\Projects\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb

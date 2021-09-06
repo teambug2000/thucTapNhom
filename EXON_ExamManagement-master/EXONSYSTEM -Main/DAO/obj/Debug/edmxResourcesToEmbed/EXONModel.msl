@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EXONModelStoreContainer" CdmEntityContainer="EXON_SYSTEM_TESTEntities">
+    <EntitySetMapping Name="ANSWERS">
+      <EntityTypeMapping TypeName="EXONModel.ANSWER">
+        <MappingFragment StoreEntitySet="ANSWERS">
+          <ScalarProperty Name="AnswerID" ColumnName="AnswerID" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="IsCorrect" ColumnName="IsCorrect" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERS_TEMP">
+      <EntityTypeMapping TypeName="EXONModel.ANSWERS_TEMP">
+        <MappingFragment StoreEntitySet="ANSWERS_TEMP">
+          <ScalarProperty Name="AnswerID" ColumnName="AnswerID" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="IsCorrect" ColumnName="IsCorrect" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionTempID" ColumnName="SubQuestionTempID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="AnswerTempID" ColumnName="AnswerTempID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEET_DETAILS">
+      <EntityTypeMapping TypeName="EXONModel.ANSWERSHEET_DETAILS">
+        <MappingFragment StoreEntitySet="ANSWERSHEET_DETAILS">
+          <ScalarProperty Name="AnswerSheetDetailID" ColumnName="AnswerSheetDetailID" />
+          <ScalarProperty Name="ChoosenAnswer" ColumnName="ChoosenAnswer" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="LastTime" ColumnName="LastTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEET_SPEAKING">
+      <EntityTypeMapping TypeName="EXONModel.ANSWERSHEET_SPEAKING">
+        <MappingFragment StoreEntitySet="ANSWERSHEET_SPEAKING">
+          <ScalarProperty Name="AnswerSheetSpeakingID" ColumnName="AnswerSheetSpeakingID" />
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="SpeakingScore" ColumnName="SpeakingScore" />
+          <ScalarProperty Name="SpeakingScore2" ColumnName="SpeakingScore2" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEET_WRITING">
+      <EntityTypeMapping TypeName="EXONModel.ANSWERSHEET_WRITING">
+        <MappingFragment StoreEntitySet="ANSWERSHEET_WRITING">
+          <ScalarProperty Name="AnswerSheetWritingID" ColumnName="AnswerSheetWritingID" />
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="WritingScore" ColumnName="WritingScore" />
+          <ScalarProperty Name="WritingScore2" ColumnName="WritingScore2" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEETS">
+      <EntityTypeMapping TypeName="EXONModel.ANSWERSHEET">
+        <MappingFragment StoreEntitySet="ANSWERSHEETS">
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="TestScores" ColumnName="TestScores" />
+          <ScalarProperty Name="EssayPoints" ColumnName="EssayPoints" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantTestID" ColumnName="ContestantTestID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BAGOFTESTS">
+      <EntityTypeMapping TypeName="EXONModel.BAGOFTEST">
+        <MappingFragment StoreEntitySet="BAGOFTESTS">
+          <ScalarProperty Name="BagOfTestID" ColumnName="BagOfTestID" />
+          <ScalarProperty Name="NumberOfTest" ColumnName="NumberOfTest" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS">
+      <EntityTypeMapping TypeName="EXONModel.CONTESTANT">
+        <MappingFragment StoreEntitySet="CONTESTANTS">
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+          <ScalarProperty Name="ContestantCode" ColumnName="ContestantCode" />
+          <ScalarProperty Name="ContestantType" ColumnName="ContestantType" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Ethnic" ColumnName="Ethnic" />
+          <ScalarProperty Name="PlaceOfBirth" ColumnName="PlaceOfBirth" />
+          <ScalarProperty Name="HighSchool" ColumnName="HighSchool" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="CurrentAddress" ColumnName="CurrentAddress" />
+          <ScalarProperty Name="TrainingSystem" ColumnName="TrainingSystem" />
+          <ScalarProperty Name="StudentCode" ColumnName="StudentCode" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS_SHIFTS">
+      <EntityTypeMapping TypeName="EXONModel.CONTESTANTS_SHIFTS">
+        <MappingFragment StoreEntitySet="CONTESTANTS_SHIFTS">
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IsCheckFingerprint" ColumnName="IsCheckFingerprint" />
+          <ScalarProperty Name="TimeCheck" ColumnName="TimeCheck" />
+          <ScalarProperty Name="TimeStarted" ColumnName="TimeStarted" />
+          <ScalarProperty Name="TimeWorked" ColumnName="TimeWorked" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="ScheduleID" ColumnName="ScheduleID" />
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+          <ScalarProperty Name="RoomDiagramID" ColumnName="RoomDiagramID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS_TESTS">
+      <EntityTypeMapping TypeName="EXONModel.CONTESTANTS_TESTS">
+        <MappingFragment StoreEntitySet="CONTESTANTS_TESTS">
+          <ScalarProperty Name="ContestantTestID" ColumnName="ContestantTestID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTS">
+      <EntityTypeMapping TypeName="EXONModel.CONTEST">
+        <MappingFragment StoreEntitySet="CONTESTS">
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+          <ScalarProperty Name="ContestName" ColumnName="ContestName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="AcceptedDate" ColumnName="AcceptedDate" />
+          <ScalarProperty Name="BeginRegistration" ColumnName="BeginRegistration" />
+          <ScalarProperty Name="EndRegistration" ColumnName="EndRegistration" />
+          <ScalarProperty Name="CreatedQuestionStartDate" ColumnName="CreatedQuestionStartDate" />
+          <ScalarProperty Name="CreatedQuestionEndDate" ColumnName="CreatedQuestionEndDate" />
+          <ScalarProperty Name="SchoolYear" ColumnName="SchoolYear" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CreatedStaffID" ColumnName="CreatedStaffID" />
+          <ScalarProperty Name="AcceptedStaffID" ColumnName="AcceptedStaffID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIVISION_SHIFTS">
+      <EntityTypeMapping TypeName="EXONModel.DIVISION_SHIFTS">
+        <MappingFragment StoreEntitySet="DIVISION_SHIFTS">
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ShiftID" ColumnName="ShiftID" />
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+          <ScalarProperty Name="Key" ColumnName="Key" />
+          <ScalarProperty Name="CheckFinger" ColumnName="CheckFinger" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIVISIONSHIFT_SUPERVISOR">
+      <EntityTypeMapping TypeName="EXONModel.DIVISIONSHIFT_SUPERVISOR">
+        <MappingFragment StoreEntitySet="DIVISIONSHIFT_SUPERVISOR">
+          <ScalarProperty Name="DivisionShift_SupervisorID" ColumnName="DivisionShift_SupervisorID" />
+          <ScalarProperty Name="SupervisorID" ColumnName="SupervisorID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EXAMINATIONCOUNCIL_POSITIONS">
+      <EntityTypeMapping TypeName="EXONModel.EXAMINATIONCOUNCIL_POSITIONS">
+        <MappingFragment StoreEntitySet="EXAMINATIONCOUNCIL_POSITIONS">
+          <ScalarProperty Name="ExaminationCouncil_PositionID" ColumnName="ExaminationCouncil_PositionID" />
+          <ScalarProperty Name="ExaminationCouncil_PositionCode" ColumnName="ExaminationCouncil_PositionCode" />
+          <ScalarProperty Name="ExaminationCouncil_PositionName" ColumnName="ExaminationCouncil_PositionName" />
+          <ScalarProperty Name="Permission" ColumnName="Permission" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EXAMINATIONCOUNCIL_STAFFS">
+      <EntityTypeMapping TypeName="EXONModel.EXAMINATIONCOUNCIL_STAFFS">
+        <MappingFragment StoreEntitySet="EXAMINATIONCOUNCIL_STAFFS">
+          <ScalarProperty Name="ExaminationCouncil_StaffID" ColumnName="ExaminationCouncil_StaffID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="ExaminationCouncil_PositionID" ColumnName="ExaminationCouncil_PositionID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FINGERPRINTS">
+      <EntityTypeMapping TypeName="EXONModel.FINGERPRINT">
+        <MappingFragment StoreEntitySet="FINGERPRINTS">
+          <ScalarProperty Name="FingerprintID" ColumnName="FingerprintID" />
+          <ScalarProperty Name="FingerprintImage" ColumnName="FingerprintImage" />
+          <ScalarProperty Name="FilePath" ColumnName="FilePath" />
+          <ScalarProperty Name="TimeSaveFingerprint" ColumnName="TimeSaveFingerprint" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOCATIONS">
+      <EntityTypeMapping TypeName="EXONModel.LOCATION">
+        <MappingFragment StoreEntitySet="LOCATIONS">
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="LocationName" ColumnName="LocationName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="POSITIONS">
+      <EntityTypeMapping TypeName="EXONModel.POSITION">
+        <MappingFragment StoreEntitySet="POSITIONS">
+          <ScalarProperty Name="PositionID" ColumnName="PositionID" />
+          <ScalarProperty Name="PositionCode" ColumnName="PositionCode" />
+          <ScalarProperty Name="PositionName" ColumnName="PositionName" />
+          <ScalarProperty Name="Permission" ColumnName="Permission" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUESTIONS">
+      <EntityTypeMapping TypeName="EXONModel.QUESTION">
+        <MappingFragment StoreEntitySet="QUESTIONS">
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionContent" ColumnName="QuestionContent" />
+          <ScalarProperty Name="QuestionFormat" ColumnName="QuestionFormat" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="IsQuiz" ColumnName="IsQuiz" />
+          <ScalarProperty Name="IsSingleChoice" ColumnName="IsSingleChoice" />
+          <ScalarProperty Name="IsParagraph" ColumnName="IsParagraph" />
+          <ScalarProperty Name="IsQuestionContent" ColumnName="IsQuestionContent" />
+          <ScalarProperty Name="NumberSubQuestion" ColumnName="NumberSubQuestion" />
+          <ScalarProperty Name="NumberAnswer" ColumnName="NumberAnswer" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Audio" ColumnName="Audio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUESTIONS_TEMP">
+      <EntityTypeMapping TypeName="EXONModel.QUESTIONS_TEMP">
+        <MappingFragment StoreEntitySet="QUESTIONS_TEMP">
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionContent" ColumnName="QuestionContent" />
+          <ScalarProperty Name="QuestionFormat" ColumnName="QuestionFormat" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="IsQuiz" ColumnName="IsQuiz" />
+          <ScalarProperty Name="IsSingleChoice" ColumnName="IsSingleChoice" />
+          <ScalarProperty Name="IsParagarph" ColumnName="IsParagarph" />
+          <ScalarProperty Name="IsQuestionContent" ColumnName="IsQuestionContent" />
+          <ScalarProperty Name="NumberSubQuestion" ColumnName="NumberSubQuestion" />
+          <ScalarProperty Name="NumberAnswer" ColumnName="NumberAnswer" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="QuestionTempID" ColumnName="QuestionTempID" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Audio" ColumnName="Audio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ROOMDIAGRAMS">
+      <EntityTypeMapping TypeName="EXONModel.ROOMDIAGRAM">
+        <MappingFragment StoreEntitySet="ROOMDIAGRAMS">
+          <ScalarProperty Name="RoomDiagramID" ColumnName="RoomDiagramID" />
+          <ScalarProperty Name="ComputerCode" ColumnName="ComputerCode" />
+          <ScalarProperty Name="ComputerName" ColumnName="ComputerName" />
+          <ScalarProperty Name="ClientIP" ColumnName="ClientIP" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ROOMTESTS">
+      <EntityTypeMapping TypeName="EXONModel.ROOMTEST">
+        <MappingFragment StoreEntitySet="ROOMTESTS">
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+          <ScalarProperty Name="RoomTestName" ColumnName="RoomTestName" />
+          <ScalarProperty Name="MaxSeatMount" ColumnName="MaxSeatMount" />
+          <ScalarProperty Name="MaxSupervisor" ColumnName="MaxSupervisor" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SCHEDULES">
+      <EntityTypeMapping TypeName="EXONModel.SCHEDULE">
+        <MappingFragment StoreEntitySet="SCHEDULES">
+          <ScalarProperty Name="ScheduleID" ColumnName="ScheduleID" />
+          <ScalarProperty Name="TimeOfTest" ColumnName="TimeOfTest" />
+          <ScalarProperty Name="TimeToSubmit" ColumnName="TimeToSubmit" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+          <ScalarProperty Name="ContestTypeName" ColumnName="ContestTypeName" />
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SHIFTS">
+      <EntityTypeMapping TypeName="EXONModel.SHIFT">
+        <MappingFragment StoreEntitySet="SHIFTS">
+          <ScalarProperty Name="ShiftID" ColumnName="ShiftID" />
+          <ScalarProperty Name="ShiftName" ColumnName="ShiftName" />
+          <ScalarProperty Name="ShiftDate" ColumnName="ShiftDate" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SPEAKING_TEACHER">
+      <EntityTypeMapping TypeName="EXONModel.SPEAKING_TEACHER">
+        <MappingFragment StoreEntitySet="SPEAKING_TEACHER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AnswerSheetSpeakingID" ColumnName="AnswerSheetSpeakingID" />
+          <ScalarProperty Name="TeacherID" ColumnName="TeacherID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFS">
+      <EntityTypeMapping TypeName="EXONModel.STAFF">
+        <MappingFragment StoreEntitySet="STAFFS">
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="AcademicRank" ColumnName="AcademicRank" />
+          <ScalarProperty Name="Degree" ColumnName="Degree" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFS_POSITIONS">
+      <EntityTypeMapping TypeName="EXONModel.STAFFS_POSITIONS">
+        <MappingFragment StoreEntitySet="STAFFS_POSITIONS">
+          <ScalarProperty Name="StaffPositionID" ColumnName="StaffPositionID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="PositionID" ColumnName="PositionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBJECTS">
+      <EntityTypeMapping TypeName="EXONModel.SUBJECT">
+        <MappingFragment StoreEntitySet="SUBJECTS">
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="SubjectName" ColumnName="SubjectName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBQUESTIONS">
+      <EntityTypeMapping TypeName="EXONModel.SUBQUESTION">
+        <MappingFragment StoreEntitySet="SUBQUESTIONS">
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionContent" ColumnName="SubQuestionContent" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBQUESTIONS_TEMP">
+      <EntityTypeMapping TypeName="EXONModel.SUBQUESTIONS_TEMP">
+        <MappingFragment StoreEntitySet="SUBQUESTIONS_TEMP">
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionContent" ColumnName="SubQuestionContent" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionTempID" ColumnName="QuestionTempID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="SubQuestionTempID" ColumnName="SubQuestionTempID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="EXONModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEST_DETAILS">
+      <EntityTypeMapping TypeName="EXONModel.TEST_DETAILS">
+        <MappingFragment StoreEntitySet="TEST_DETAILS">
+          <ScalarProperty Name="TestDetailID" ColumnName="TestDetailID" />
+          <ScalarProperty Name="RandomAnswer" ColumnName="RandomAnswer" />
+          <ScalarProperty Name="NumberIndex" ColumnName="NumberIndex" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TESTNUMBERs">
+      <EntityTypeMapping TypeName="EXONModel.TESTNUMBER">
+        <MappingFragment StoreEntitySet="TESTNUMBER">
+          <ScalarProperty Name="IDTestNumber" ColumnName="IDTestNumber" />
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+          <ScalarProperty Name="TestNumberIndex" ColumnName="TestNumberIndex" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TESTS">
+      <EntityTypeMapping TypeName="EXONModel.TEST">
+        <MappingFragment StoreEntitySet="TESTS">
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="BagOfTestID" ColumnName="BagOfTestID" />
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VIOLATIONS">
+      <EntityTypeMapping TypeName="EXONModel.VIOLATION">
+        <MappingFragment StoreEntitySet="VIOLATIONS">
+          <ScalarProperty Name="ViolationID" ColumnName="ViolationID" />
+          <ScalarProperty Name="ViolationName" ColumnName="ViolationName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VIOLATIONS_CONTESTANTS">
+      <EntityTypeMapping TypeName="EXONModel.VIOLATIONS_CONTESTANTS">
+        <MappingFragment StoreEntitySet="VIOLATIONS_CONTESTANTS">
+          <ScalarProperty Name="ViolationDetailID" ColumnName="ViolationDetailID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TimeSave" ColumnName="TimeSave" />
+          <ScalarProperty Name="ViolationID" ColumnName="ViolationID" />
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WRITING_TEACHER">
+      <EntityTypeMapping TypeName="EXONModel.WRITING_TEACHER">
+        <MappingFragment StoreEntitySet="WRITING_TEACHER">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AnswerSheetWritingID" ColumnName="AnswerSheetWritingID" />
+          <ScalarProperty Name="TeacherID" ColumnName="TeacherID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

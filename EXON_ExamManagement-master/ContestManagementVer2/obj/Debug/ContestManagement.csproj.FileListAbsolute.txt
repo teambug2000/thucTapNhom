@@ -1,0 +1,1034 @@
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll.config
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll.config
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll.config
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CoreCompileInputs.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CopyComplete
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojFakesResolveAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.Fakes.fakesconfig
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojFakesResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojFakesResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.Fakes.fakesconfig
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\ContestManagementVer2.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.Fakes.fakesconfig
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Design.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MySql.Data.Entity.EF6.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\System.Windows.Interactivity.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EnvDTE80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\log4net.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\stdole.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.MSXML.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\VSLangProj2.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Common.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Data.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON_EM.Data.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\MahApps.Metro.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\EXON.Model.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojFakesResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmConfigDiaDiem.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKeHoachThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmKhoiThi_2.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLapKeHoachThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmLuaChonXepLich.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXacNhanPheDuyetKeHoach.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.FrmXepLich.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucDanhSachDangKy.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucLichThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemCaThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemDiaDiemPhongThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemMonThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Main.ucThemPhanCongHoiDongThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Properties.Resources.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKeHoachKiThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinhB1.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoThiSinh.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpPhanCongHoiDongThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoMonThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpThiSinhDangKyTheoMonThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpKetQuaTheoCaThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.Report.FrmRpLichThiTheoCaThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagement.csproj.GenerateResource.Cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\RdlCompile.compiled
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ContestManagementVer2\obj\Debug\ContestManagementVer2.pdb

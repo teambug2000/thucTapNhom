@@ -1,0 +1,190 @@
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\Version1\CODE\A_Kien\EXONSYSTEM\code\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionNew\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionNewHienThiDanhSachCaThiRoiGiamThiChon\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\Version_ThayShiftID_DivisionShiftID\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\VersionChonCaThi_ChonPhong\Thay 2\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Ky_10\DoAn\CODE\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Projects\Luyen_PHDieuHanhGiamSat\Luyen_PHDieuHanhGiamSat - Copy\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\Shindo\Desktop\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe.config
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\ClientSide.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Persistance.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\CL.Services.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\UserHelper.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\bin\Debug\EntityFramework.xml
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSide.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.ClientSideServiceForm.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.frmLogin.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\ClientSide\obj\Debug\ClientSide.pdb

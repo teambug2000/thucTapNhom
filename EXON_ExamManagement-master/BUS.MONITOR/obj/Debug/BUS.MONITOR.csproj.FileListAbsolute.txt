@@ -1,0 +1,59 @@
+D:\Projects\Main17-12\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+D:\main12-3\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+D:\main12-3\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+D:\main12-3\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+D:\main12-3\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\bin\Debug\BUS.MONITOR.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\BUS.MONITOR\obj\Debug\BUS.MONITOR.pdb

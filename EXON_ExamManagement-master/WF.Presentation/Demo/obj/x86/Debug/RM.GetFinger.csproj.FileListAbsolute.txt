@@ -1,0 +1,14 @@
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\Demo.exe.config
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\Demo.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\Demo.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\CL.Persistance.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\CL.Services.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\libzkfpcsharp.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\CL.Persistance.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\bin\Debug\CL.Services.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\RM.GetFinger.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\RM.GetFinger.frmGetFingerPrinter.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\RM.GetFinger.Properties.Resources.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\RM.GetFinger.csproj.GenerateResource.Cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\Demo.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\Demo\obj\x86\Debug\Demo.pdb

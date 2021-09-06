@@ -1,0 +1,88 @@
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.GenerateTest.exe.config
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.GenerateTest.exe
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.GenerateTest.pdb
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\DevelopmentTool.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EntityFramework.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EntityFramework.SqlServer.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Common.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Data.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Model.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\log4net.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\MetroFramework.Design.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\MetroFramework.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\MetroFramework.Fonts.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Newtonsoft.Json.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\System.Windows.Forms.Ribbon35.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Common.pdb
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Data.pdb
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EXON.Model.pdb
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EntityFramework.xml
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\EntityFramework.SqlServer.xml
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\log4net.xml
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\bin\Release\Newtonsoft.Json.xml
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.csprojResolveAssemblyReference.cache
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucAudioQuestion.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Forms.frmDisplayTest.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateOriginalTest.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateStructure.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateTest.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucDisplayQuestion.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucDisplayStructure.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Reports.FrmStructTestReport.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.frmMain.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Properties.Resources.resources
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.csproj.GenerateResource.Cache
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\RdlCompile.cache
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\RdlCompile.compiled
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.exe
+P:\Project\EXON\Server Hoc Ky Ban Chuan\SERVER HOC KY\EXON_ExamManagement-master\EXON.GenerateTest\obj\Release\EXON.GenerateTest.pdb
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.GenerateTest.exe.config
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.GenerateTest.exe
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.GenerateTest.pdb
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\DevelopmentTool.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EntityFramework.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EntityFramework.SqlServer.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Common.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Data.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Model.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\log4net.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\MetroFramework.Design.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\MetroFramework.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\MetroFramework.Fonts.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Newtonsoft.Json.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\System.Windows.Forms.Ribbon35.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Common.pdb
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Data.pdb
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EXON.Model.pdb
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EntityFramework.xml
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\EntityFramework.SqlServer.xml
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\log4net.xml
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\bin\Release\Newtonsoft.Json.xml
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.csprojResolveAssemblyReference.cache
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucAudioQuestion.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucMatchingQuestion.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Forms.frmDisplayTest.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Forms.frmPart.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateOriginalTest.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateStructure.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucCreateTest.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucDisplayQuestion.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Controls.ucDisplayStructure.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Core.Reports.FrmStructTestReport.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.frmMain.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.Properties.Resources.resources
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.csproj.GenerateResource.Cache
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\RdlCompile.cache
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\RdlCompile.compiled
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.exe
+P:\Project\EXON\EXON_ExamManagement-master_Lastest_(A_Hung)\EXON.GenerateTest\obj\Release\EXON.GenerateTest.pdb

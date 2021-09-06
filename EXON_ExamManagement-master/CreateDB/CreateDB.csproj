@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{42B0F41D-03D5-47C7-8B95-B2EAB6A6AC05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CreateDB</RootNamespace>
+    <AssemblyName>CreateDB</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.DataVisualization.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.Design.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportViewer.11.0.3366.16\lib\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.11.0.1\lib\net20\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppSession.cs" />
+    <Compile Include="ConfigApp.cs" />
+    <Compile Include="frmReverseTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReverseTransfer.designer.cs">
+      <DependentUpon>frmReverseTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckData.Designer.cs">
+      <DependentUpon>frmCheckData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\ANSWER.cs" />
+    <Compile Include="Main\ANSWERSHEET.cs" />
+    <Compile Include="Main\ANSWERSHEET_DETAILS.cs" />
+    <Compile Include="Main\BAGOFTEST.cs" />
+    <Compile Include="Main\CONTEST.cs" />
+    <Compile Include="Main\CONTESTANT.cs" />
+    <Compile Include="Main\CONTESTANTS_SHIFTS.cs" />
+    <Compile Include="Main\CONTESTANTS_SUBJECTS.cs" />
+    <Compile Include="Main\CONTESTANTS_TESTS.cs" />
+    <Compile Include="Main\CONTESTANT_TYPES.cs" />
+    <Compile Include="Main\CONTEST_FEES.cs" />
+    <Compile Include="Main\CONTEST_TYPES.cs" />
+    <Compile Include="Main\C__MigrationHistory.cs" />
+    <Compile Include="Main\DEMO_FINGERPRINTS.cs" />
+    <Compile Include="Main\DEPARTMENT.cs" />
+    <Compile Include="Main\DIVISION_SHIFTS.cs" />
+    <Compile Include="Main\EXAMINATIONCOUNCIL_POSITIONS.cs" />
+    <Compile Include="Main\EXAMINATIONCOUNCIL_STAFFS.cs" />
+    <Compile Include="Main\FINGERPRINT.cs" />
+    <Compile Include="Main\GROUP.cs" />
+    <Compile Include="Main\GROUP_SUBJECTS.cs" />
+    <Compile Include="Main\LOCATION.cs" />
+    <Compile Include="Main\Main.cs" />
+    <Compile Include="Main\MODULE.cs" />
+    <Compile Include="Main\ORIGINAL_TESTS.cs" />
+    <Compile Include="Main\ORIGINAL_TEST_DETAILS.cs" />
+    <Compile Include="Main\PART.cs" />
+    <Compile Include="Main\PARTS_DETAILS.cs" />
+    <Compile Include="Main\PARTS_SUBJECT.cs" />
+    <Compile Include="Main\PARTS_SUBJECT_DETAILS.cs" />
+    <Compile Include="Main\POSITION.cs" />
+    <Compile Include="Main\QUESTION.cs" />
+    <Compile Include="Main\QUESTION_TYPES.cs" />
+    <Compile Include="Main\RECEIPT.cs" />
+    <Compile Include="Main\REGISTER.cs" />
+    <Compile Include="Main\REGISTERS_SUBJECTS.cs" />
+    <Compile Include="Main\REMINDER.cs" />
+    <Compile Include="Main\ROOMDIAGRAM.cs" />
+    <Compile Include="Main\ROOMTEST.cs" />
+    <Compile Include="Main\SCHEDULE.cs" />
+    <Compile Include="Main\SHIFT.cs" />
+    <Compile Include="Main\STAFF.cs" />
+    <Compile Include="Main\STAFFS_POSITIONS.cs" />
+    <Compile Include="Main\STRUCTURE.cs" />
+    <Compile Include="Main\STRUCTURES_SUBJECT.cs" />
+    <Compile Include="Main\STRUCTURE_DETAILS.cs" />
+    <Compile Include="Main\STRUCTURE_SUBJECT_DETAILS.cs" />
+    <Compile Include="Main\SUBJECT.cs" />
+    <Compile Include="Main\SUBQUESTION.cs" />
+    <Compile Include="Main\TEST.cs" />
+    <Compile Include="Main\TEST_DETAILS.cs" />
+    <Compile Include="Main\TOPIC.cs" />
+    <Compile Include="Main\TOPICS_STAFFS.cs" />
+    <Compile Include="Main\VIOLATION.cs" />
+    <Compile Include="Main\VIOLATIONS_CONTESTANTS.cs" />
+    <Compile Include="QuizStorage\All_Class_Utils.cs" />
+    <Compile Include="QuizStorage\ANSWER.cs" />
+    <Compile Include="QuizStorage\ANSWERSHEET.cs" />
+    <Compile Include="QuizStorage\ANSWERSHEET_DETAILS.cs" />
+    <Compile Include="QuizStorage\ANSWERSHEET_SPEAKING.cs" />
+    <Compile Include="QuizStorage\ANSWERSHEET_WRITING.cs" />
+    <Compile Include="QuizStorage\ANSWERS_TEMP.cs" />
+    <Compile Include="QuizStorage\BAGOFTEST.cs" />
+    <Compile Include="QuizStorage\CONTEST.cs" />
+    <Compile Include="QuizStorage\CONTESTANT.cs" />
+    <Compile Include="QuizStorage\CONTESTANTPAUSE.cs" />
+    <Compile Include="QuizStorage\CONTESTANTS_SHIFTS.cs" />
+    <Compile Include="QuizStorage\CONTESTANTS_TESTS.cs" />
+    <Compile Include="QuizStorage\C__MigrationHistory.cs" />
+    <Compile Include="QuizStorage\DIVISIONSHIFT_SUPERVISOR.cs" />
+    <Compile Include="QuizStorage\DIVISION_SHIFTS.cs" />
+    <Compile Include="QuizStorage\DIVSIONSHIFT_PAUSE.cs" />
+    <Compile Include="QuizStorage\EXAMINATIONCOUNCIL_POSITIONS.cs" />
+    <Compile Include="QuizStorage\EXAMINATIONCOUNCIL_STAFFS.cs" />
+    <Compile Include="QuizStorage\FINGERPRINT.cs" />
+    <Compile Include="QuizStorage\LOCATION.cs" />
+    <Compile Include="QuizStorage\PART.cs" />
+    <Compile Include="QuizStorage\POSITION.cs" />
+    <Compile Include="QuizStorage\QUESTION.cs" />
+    <Compile Include="QuizStorage\QUESTIONS_TEMP.cs" />
+    <Compile Include="QuizStorage\QuizStorage.cs" />
+    <Compile Include="QuizStorage\ROOMDIAGRAM.cs" />
+    <Compile Include="QuizStorage\ROOMTEST.cs" />
+    <Compile Include="QuizStorage\SCHEDULE.cs" />
+    <Compile Include="QuizStorage\SHIFT.cs" />
+    <Compile Include="QuizStorage\SHIFTSPAUSE.cs" />
+    <Compile Include="QuizStorage\SPEAKING_TEACHER.cs" />
+    <Compile Include="QuizStorage\STAFF.cs" />
+    <Compile Include="QuizStorage\STAFFS_POSITIONS.cs" />
+    <Compile Include="QuizStorage\SUBJECT.cs" />
+    <Compile Include="QuizStorage\SUBQUESTION.cs" />
+    <Compile Include="QuizStorage\SUBQUESTIONS_TEMP.cs" />
+    <Compile Include="QuizStorage\TEST.cs" />
+    <Compile Include="QuizStorage\TESTNUMBER.cs" />
+    <Compile Include="QuizStorage\TEST_DETAILS.cs" />
+    <Compile Include="QuizStorage\VIOLATION.cs" />
+    <Compile Include="QuizStorage\VIOLATIONS_CONTESTANTS.cs" />
+    <Compile Include="QuizStorage\WRITING_TEACHER.cs" />
+    <Compile Include="Quiz\ANSWER.cs" />
+    <Compile Include="Quiz\ANSWERSHEET.cs" />
+    <Compile Include="Quiz\ANSWERSHEET_DETAILS.cs" />
+    <Compile Include="Quiz\ANSWERSHEET_SPEAKING.cs" />
+    <Compile Include="Quiz\ANSWERSHEET_WRITING.cs" />
+    <Compile Include="Quiz\ANSWERS_TEMP.cs" />
+    <Compile Include="Quiz\BAGOFTEST.cs" />
+    <Compile Include="Quiz\CONTEST.cs" />
+    <Compile Include="Quiz\CONTESTANT.cs" />
+    <Compile Include="Quiz\CONTESTANTPAUSE.cs" />
+    <Compile Include="Quiz\CONTESTANTS_SHIFTS.cs" />
+    <Compile Include="Quiz\CONTESTANTS_TESTS.cs" />
+    <Compile Include="Quiz\C__MigrationHistory.cs" />
+    <Compile Include="Quiz\DIVISIONSHIFT_SUPERVISOR.cs" />
+    <Compile Include="Quiz\DIVISION_SHIFTS.cs" />
+    <Compile Include="Quiz\DIVSIONSHIFT_PAUSE.cs" />
+    <Compile Include="Quiz\EXAMINATIONCOUNCIL_POSITIONS.cs" />
+    <Compile Include="Quiz\EXAMINATIONCOUNCIL_STAFFS.cs" />
+    <Compile Include="Quiz\FINGERPRINT.cs" />
+    <Compile Include="Quiz\LOCATION.cs" />
+    <Compile Include="Quiz\PART.cs" />
+    <Compile Include="Quiz\POSITION.cs" />
+    <Compile Include="Quiz\QUESTION.cs" />
+    <Compile Include="Quiz\QUESTIONS_TEMP.cs" />
+    <Compile Include="Quiz\Quiz.cs" />
+    <Compile Include="Quiz\ROOMDIAGRAM.cs" />
+    <Compile Include="Quiz\ROOMTEST.cs" />
+    <Compile Include="Quiz\SCHEDULE.cs" />
+    <Compile Include="Quiz\SHIFT.cs" />
+    <Compile Include="Quiz\SHIFTSPAUSE.cs" />
+    <Compile Include="Quiz\SPEAKING_TEACHER.cs" />
+    <Compile Include="Quiz\STAFF.cs" />
+    <Compile Include="Quiz\STAFFS_POSITIONS.cs" />
+    <Compile Include="Quiz\SUBJECT.cs" />
+    <Compile Include="Quiz\SUBQUESTION.cs" />
+    <Compile Include="Quiz\SUBQUESTIONS_TEMP.cs" />
+    <Compile Include="Quiz\TEST.cs" />
+    <Compile Include="Quiz\TESTNUMBER.cs" />
+    <Compile Include="Quiz\TEST_DETAILS.cs" />
+    <Compile Include="Quiz\VIOLATION.cs" />
+    <Compile Include="Quiz\VIOLATIONS_CONTESTANTS.cs" />
+    <Compile Include="Quiz\WRITING_TEACHER.cs" />
+    <Compile Include="Report\datasetDivisionShiftKey.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>datasetDivisionShiftKey.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="QuizMain\ANSWER.cs" />
+    <Compile Include="QuizMain\ANSWERSHEET.cs" />
+    <Compile Include="QuizMain\ANSWERSHEET_DETAILS.cs" />
+    <Compile Include="QuizMain\ANSWERSHEET_SPEAKING.cs" />
+    <Compile Include="QuizMain\ANSWERSHEET_WRITING.cs" />
+    <Compile Include="QuizMain\ANSWERS_TEMP.cs" />
+    <Compile Include="QuizMain\BAGOFTEST.cs" />
+    <Compile Include="QuizMain\CONTEST.cs" />
+    <Compile Include="QuizMain\CONTESTANT.cs" />
+    <Compile Include="QuizMain\CONTESTANTS_SHIFTS.cs" />
+    <Compile Include="QuizMain\CONTESTANTS_TESTS.cs" />
+    <Compile Include="QuizMain\DIVISIONSHIFT_SUPERVISOR.cs" />
+    <Compile Include="QuizMain\DIVISION_SHIFTS.cs" />
+    <Compile Include="QuizMain\EXAMINATIONCOUNCIL_POSITIONS.cs" />
+    <Compile Include="QuizMain\EXAMINATIONCOUNCIL_STAFFS.cs" />
+    <Compile Include="QuizMain\FINGERPRINT.cs" />
+    <Compile Include="QuizMain\LOCATION.cs" />
+    <Compile Include="QuizMain\POSITION.cs" />
+    <Compile Include="QuizMain\QUESTION.cs" />
+    <Compile Include="QuizMain\QUESTIONS_TEMP.cs" />
+    <Compile Include="QuizMain\QuizMain.cs" />
+    <Compile Include="QuizMain\ROOMDIAGRAM.cs" />
+    <Compile Include="QuizMain\ROOMTEST.cs" />
+    <Compile Include="QuizMain\SCHEDULE.cs" />
+    <Compile Include="QuizMain\SHIFT.cs" />
+    <Compile Include="QuizMain\SPEAKING_TEACHER.cs" />
+    <Compile Include="QuizMain\STAFF.cs" />
+    <Compile Include="QuizMain\STAFFS_POSITIONS.cs" />
+    <Compile Include="QuizMain\SUBJECT.cs" />
+    <Compile Include="QuizMain\SUBQUESTION.cs" />
+    <Compile Include="QuizMain\SUBQUESTIONS_TEMP.cs" />
+    <Compile Include="QuizMain\sysdiagram.cs" />
+    <Compile Include="QuizMain\TEST.cs" />
+    <Compile Include="QuizMain\TESTNUMBER.cs" />
+    <Compile Include="QuizMain\TEST_DETAILS.cs" />
+    <Compile Include="QuizMain\VIOLATION.cs" />
+    <Compile Include="QuizMain\VIOLATIONS_CONTESTANTS.cs" />
+    <Compile Include="QuizMain\WRITING_TEACHER.cs" />
+    <Compile Include="Report\DataSetDVKey.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetDVKey.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Encrypter.cs" />
+    <Compile Include="frmImportRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImportRoom.Designer.cs">
+      <DependentUpon>frmImportRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoading2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading2.Designer.cs">
+      <DependentUpon>frmLoading2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoading.Designer.cs">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReTrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReTrans.Designer.cs">
+      <DependentUpon>frmReTrans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoomConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoomConfig.Designer.cs">
+      <DependentUpon>frmRoomConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MFrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MFrmMain.Designer.cs">
+      <DependentUpon>MFrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\frmReportComputer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmReportComputer.Designer.cs">
+      <DependentUpon>frmReportComputer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmReportKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmReportKey.Designer.cs">
+      <DependentUpon>frmReportKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\frmRportAllKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\frmRportAllKey.Designer.cs">
+      <DependentUpon>frmRportAllKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="ucComputerConfig.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucComputerConfig.Designer.cs">
+      <DependentUpon>ucComputerConfig.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmReverseTransfer.resx">
+      <DependentUpon>frmReverseTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckData.resx">
+      <DependentUpon>frmCheckData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImportRoom.resx">
+      <DependentUpon>frmImportRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading2.resx">
+      <DependentUpon>frmLoading2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoading.resx">
+      <DependentUpon>frmLoading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReTrans.resx">
+      <DependentUpon>frmReTrans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoomConfig.resx">
+      <DependentUpon>frmRoomConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MFrmMain.resx">
+      <DependentUpon>MFrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\frmReportComputer.resx">
+      <DependentUpon>frmReportComputer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmReportKey.resx">
+      <DependentUpon>frmReportKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\frmRportAllKey.resx">
+      <DependentUpon>frmRportAllKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\ReportRoomDiagrams.rdlc" />
+    <EmbeddedResource Include="Report\rptDivisionshiftKey.rdlc" />
+    <EmbeddedResource Include="Report\rptDividionShift.rdlc" />
+    <EmbeddedResource Include="ucComputerConfig.resx">
+      <DependentUpon>ucComputerConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Report\datasetDivisionShiftKey.xsc">
+      <DependentUpon>datasetDivisionShiftKey.xsd</DependentUpon>
+    </None>
+    <None Include="Report\datasetDivisionShiftKey.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>datasetDivisionShiftKey.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\datasetDivisionShiftKey.xss">
+      <DependentUpon>datasetDivisionShiftKey.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSetDVKey.xsc">
+      <DependentUpon>DataSetDVKey.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSetDVKey.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetDVKey.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Report\DataSetDVKey.xss">
+      <DependentUpon>DataSetDVKey.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keybooo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor-dubi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor-hong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EXON.Common\EXON.Common.csproj">
+      <Project>{DF92320D-CD11-499B-8002-FF00B40F101A}</Project>
+      <Name>EXON.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EXON.Data\EXON.Data.csproj">
+      <Project>{353009d7-cce4-4d0d-8374-c9e8accd2f39}</Project>
+      <Name>EXON.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EXON.Model\EXON.Model.csproj">
+      <Project>{b89723b7-c9bb-49c5-97b2-81f7fe7750ce}</Project>
+      <Name>EXON.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QuanLyHoiDongThiVer2\QuanLyHoiDongThiVer2.csproj">
+      <Project>{0b80e0f0-2a8c-4513-a473-78082db37436}</Project>
+      <Name>QuanLyHoiDongThiVer2</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\msvcr100.dll">
+      <Link>SqlServerTypes\x64\msvcr100.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x64\SqlServerSpatial110.dll">
+      <Link>SqlServerTypes\x64\SqlServerSpatial110.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\msvcr100.dll">
+      <Link>SqlServerTypes\x86\msvcr100.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\packages\Microsoft.SqlServer.Types.11.0.1\nativeBinaries\x86\SqlServerSpatial110.dll">
+      <Link>SqlServerTypes\x86\SqlServerSpatial110.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MetroFramework.txt" />
+    <Content Include="SqlServerTypes\readme.htm" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

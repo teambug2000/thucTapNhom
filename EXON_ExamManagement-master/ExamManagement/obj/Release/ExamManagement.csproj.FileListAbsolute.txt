@@ -1,0 +1,15 @@
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmChucVuCanBo.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmChucVuHoiDongThi.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmCanBo.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmKetNoiCSDL.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmLoaiCauHoi.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmLoaiViPham.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmHocPhan.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmChucVu.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmHocHamHocVi.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmDonVi.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmLogin.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.GUI.FrmMain.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\ExamManagement\obj\Release\ExamManagement.exe.licenses

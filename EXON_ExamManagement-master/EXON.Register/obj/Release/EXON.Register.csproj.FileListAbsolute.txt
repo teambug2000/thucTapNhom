@@ -1,0 +1,6 @@
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.frmInfoRegister.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.frmRegister.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.frmTakePhoto.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Register\obj\Release\EXON.Register.csproj.GenerateResource.Cache

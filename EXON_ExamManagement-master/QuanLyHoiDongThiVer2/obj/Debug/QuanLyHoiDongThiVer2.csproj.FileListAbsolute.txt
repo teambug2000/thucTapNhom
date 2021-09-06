@@ -1,0 +1,698 @@
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Work\2017\Winform\Thay Hai\Du An thi truc tuyen ver 3\EXST - Import Lịch thi\QuanLyHoiDongThiVer2\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\QuanLyHoiDongThiVer2.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\MetroFramework.Fonts.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EnvDTE80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\log4net.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\stdole.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj80.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.MSXML.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\VSLangProj2.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.Common.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EXON.SubModel.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmDoiMatKhau.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Form1.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmMain.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmPhanCongGiamThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.FrmTrangThaiPhongThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.GUI.ucTrangThaiDiaDiem.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.Properties.Resources.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.report.FrmRpKetQuaKipThi.resources
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.csproj.GenerateResource.Cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\RdlCompile.compiled
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.exe
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\QuanLyHoiDongThiVer2\obj\Debug\QuanLyHoiDongThiVer2.pdb

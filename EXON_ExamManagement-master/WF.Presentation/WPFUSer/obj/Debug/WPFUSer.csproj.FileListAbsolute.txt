@@ -1,0 +1,12 @@
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\bin\Debug\WPFUSer.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\bin\Debug\WPFUSer.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\UserControl1.g.cs
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer_MarkupCompile.cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer_MarkupCompile.lref
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\UserControl1.baml
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.g.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.Properties.Resources.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.csproj.GenerateResource.Cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFUSer\obj\Debug\WPFUSer.csprojResolveAssemblyReference.cache

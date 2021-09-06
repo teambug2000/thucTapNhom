@@ -1,0 +1,480 @@
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\log4net.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.xml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.exe
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.exe
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Demo.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EntityFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Register.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\log4net.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\MetroFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\UserHelper.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Model.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Data.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\AForge.Video.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\CL.Services.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\AForge.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Demo.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\UserHelper.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EntityFramework.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\bin\Debug\CL.Services.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\Language\en-us.baml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\log4net.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.compiled
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\log4net.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.compiled
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.MONITOR.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\libzkfpcsharp.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\log4net.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Design.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\MetroFramework.Fonts.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.DirectShow.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.Video.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\AForge.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Register.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubData.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\QuanLyHoiDongThiVer2.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Demo.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\NetSDKCS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\UserHelper.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Model.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\EXON.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Services.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\bin\Debug\CL.Persistance.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.compiled
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.baml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.baml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Language\en-us.baml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\LoginWindow.g.cs
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\Camera\MainWindow.g.cs
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR_MarkupCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.g.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucAddnewCom.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucComputer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\GeneralManagement.Supervisors.ucComputerConfig.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucEditComputer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucQuanLyMayThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucRoomDiagram.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmAddComputer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmCheckComputer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRegister.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmLogin.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmRoomConfig.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmServer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.GUI.frmSupervisorManage.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Control.ucServer.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmAllSpQues.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBan.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmBienBanChuyenCaThi.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReport.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.MONITOR.Report.frmReportARR.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\ReportRoomDiagrams.FrmSpeakingQues.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\EXON.Monitor.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.MONITOR\obj\Debug\RdlCompile.compiled

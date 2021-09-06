@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MTAQuizModelStoreContainer" CdmEntityContainer="MTAQuizEntities">
+    <EntitySetMapping Name="ANSWERS">
+      <EntityTypeMapping TypeName="MTAQuizModel.ANSWER">
+        <MappingFragment StoreEntitySet="ANSWERS">
+          <ScalarProperty Name="AnswerID" ColumnName="AnswerID" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="IsCorrect" ColumnName="IsCorrect" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERS_TEMP">
+      <EntityTypeMapping TypeName="MTAQuizModel.ANSWERS_TEMP">
+        <MappingFragment StoreEntitySet="ANSWERS_TEMP">
+          <ScalarProperty Name="AnswerID" ColumnName="AnswerID" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="IsCorrect" ColumnName="IsCorrect" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionTempID" ColumnName="SubQuestionTempID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="AnswerTempID" ColumnName="AnswerTempID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEET_DETAILS">
+      <EntityTypeMapping TypeName="MTAQuizModel.ANSWERSHEET_DETAILS">
+        <MappingFragment StoreEntitySet="ANSWERSHEET_DETAILS">
+          <ScalarProperty Name="AnswerSheetDetailID" ColumnName="AnswerSheetDetailID" />
+          <ScalarProperty Name="ChoosenAnswer" ColumnName="ChoosenAnswer" />
+          <ScalarProperty Name="AnswerContent" ColumnName="AnswerContent" />
+          <ScalarProperty Name="LastTime" ColumnName="LastTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ANSWERSHEETS">
+      <EntityTypeMapping TypeName="MTAQuizModel.ANSWERSHEET">
+        <MappingFragment StoreEntitySet="ANSWERSHEETS">
+          <ScalarProperty Name="AnswerSheetID" ColumnName="AnswerSheetID" />
+          <ScalarProperty Name="TestScores" ColumnName="TestScores" />
+          <ScalarProperty Name="EssayPoints" ColumnName="EssayPoints" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantTestID" ColumnName="ContestantTestID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BAGOFTESTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.BAGOFTEST">
+        <MappingFragment StoreEntitySet="BAGOFTESTS">
+          <ScalarProperty Name="BagOfTestID" ColumnName="BagOfTestID" />
+          <ScalarProperty Name="NumberOfTest" ColumnName="NumberOfTest" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.CONTESTANT">
+        <MappingFragment StoreEntitySet="CONTESTANTS">
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+          <ScalarProperty Name="ContestantCode" ColumnName="ContestantCode" />
+          <ScalarProperty Name="ContestantType" ColumnName="ContestantType" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Ethnic" ColumnName="Ethnic" />
+          <ScalarProperty Name="PlaceOfBirth" ColumnName="PlaceOfBirth" />
+          <ScalarProperty Name="HighSchool" ColumnName="HighSchool" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="Unit" ColumnName="Unit" />
+          <ScalarProperty Name="CurrentAddress" ColumnName="CurrentAddress" />
+          <ScalarProperty Name="TrainingSystem" ColumnName="TrainingSystem" />
+          <ScalarProperty Name="StudentCode" ColumnName="StudentCode" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS_SHIFTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.CONTESTANTS_SHIFTS">
+        <MappingFragment StoreEntitySet="CONTESTANTS_SHIFTS">
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IsCheckFingerprint" ColumnName="IsCheckFingerprint" />
+          <ScalarProperty Name="TimeCheck" ColumnName="TimeCheck" />
+          <ScalarProperty Name="TimeStarted" ColumnName="TimeStarted" />
+          <ScalarProperty Name="TimeWorked" ColumnName="TimeWorked" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="ScheduleID" ColumnName="ScheduleID" />
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+          <ScalarProperty Name="RoomDiagramID" ColumnName="RoomDiagramID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTANTS_TESTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.CONTESTANTS_TESTS">
+        <MappingFragment StoreEntitySet="CONTESTANTS_TESTS">
+          <ScalarProperty Name="ContestantTestID" ColumnName="ContestantTestID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CONTESTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.CONTEST">
+        <MappingFragment StoreEntitySet="CONTESTS">
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+          <ScalarProperty Name="ContestName" ColumnName="ContestName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="AcceptedDate" ColumnName="AcceptedDate" />
+          <ScalarProperty Name="BeginRegistration" ColumnName="BeginRegistration" />
+          <ScalarProperty Name="EndRegistration" ColumnName="EndRegistration" />
+          <ScalarProperty Name="CreatedQuestionStartDate" ColumnName="CreatedQuestionStartDate" />
+          <ScalarProperty Name="CreatedQuestionEndDate" ColumnName="CreatedQuestionEndDate" />
+          <ScalarProperty Name="SchoolYear" ColumnName="SchoolYear" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CreatedStaffID" ColumnName="CreatedStaffID" />
+          <ScalarProperty Name="AcceptedStaffID" ColumnName="AcceptedStaffID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIVISION_SHIFTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.DIVISION_SHIFTS">
+        <MappingFragment StoreEntitySet="DIVISION_SHIFTS">
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ShiftID" ColumnName="ShiftID" />
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+          <ScalarProperty Name="Key" ColumnName="Key" />
+          <ScalarProperty Name="CheckFinger" ColumnName="CheckFinger" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DIVISIONSHIFT_SUPERVISOR">
+      <EntityTypeMapping TypeName="MTAQuizModel.DIVISIONSHIFT_SUPERVISOR">
+        <MappingFragment StoreEntitySet="DIVISIONSHIFT_SUPERVISOR">
+          <ScalarProperty Name="DivisionShift_SupervisorID" ColumnName="DivisionShift_SupervisorID" />
+          <ScalarProperty Name="SupervisorID" ColumnName="SupervisorID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EXAMINATIONCOUNCIL_POSITIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.EXAMINATIONCOUNCIL_POSITIONS">
+        <MappingFragment StoreEntitySet="EXAMINATIONCOUNCIL_POSITIONS">
+          <ScalarProperty Name="ExaminationCouncil_PositionID" ColumnName="ExaminationCouncil_PositionID" />
+          <ScalarProperty Name="ExaminationCouncil_PositionCode" ColumnName="ExaminationCouncil_PositionCode" />
+          <ScalarProperty Name="ExaminationCouncil_PositionName" ColumnName="ExaminationCouncil_PositionName" />
+          <ScalarProperty Name="Permission" ColumnName="Permission" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EXAMINATIONCOUNCIL_STAFFS">
+      <EntityTypeMapping TypeName="MTAQuizModel.EXAMINATIONCOUNCIL_STAFFS">
+        <MappingFragment StoreEntitySet="EXAMINATIONCOUNCIL_STAFFS">
+          <ScalarProperty Name="ExaminationCouncil_StaffID" ColumnName="ExaminationCouncil_StaffID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="ExaminationCouncil_PositionID" ColumnName="ExaminationCouncil_PositionID" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FINGERPRINTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.FINGERPRINT">
+        <MappingFragment StoreEntitySet="FINGERPRINTS">
+          <ScalarProperty Name="FingerprintID" ColumnName="FingerprintID" />
+          <ScalarProperty Name="FingerprintImage" ColumnName="FingerprintImage" />
+          <ScalarProperty Name="FilePath" ColumnName="FilePath" />
+          <ScalarProperty Name="TimeSaveFingerprint" ColumnName="TimeSaveFingerprint" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestantID" ColumnName="ContestantID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOCATIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.LOCATION">
+        <MappingFragment StoreEntitySet="LOCATIONS">
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+          <ScalarProperty Name="LocationName" ColumnName="LocationName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="POSITIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.POSITION">
+        <MappingFragment StoreEntitySet="POSITIONS">
+          <ScalarProperty Name="PositionID" ColumnName="PositionID" />
+          <ScalarProperty Name="PositionCode" ColumnName="PositionCode" />
+          <ScalarProperty Name="PositionName" ColumnName="PositionName" />
+          <ScalarProperty Name="Permission" ColumnName="Permission" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUESTIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.QUESTION">
+        <MappingFragment StoreEntitySet="QUESTIONS">
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionContent" ColumnName="QuestionContent" />
+          <ScalarProperty Name="QuestionFormat" ColumnName="QuestionFormat" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="IsQuiz" ColumnName="IsQuiz" />
+          <ScalarProperty Name="IsSingleChoice" ColumnName="IsSingleChoice" />
+          <ScalarProperty Name="IsParagraph" ColumnName="IsParagraph" />
+          <ScalarProperty Name="IsQuestionContent" ColumnName="IsQuestionContent" />
+          <ScalarProperty Name="NumberSubQuestion" ColumnName="NumberSubQuestion" />
+          <ScalarProperty Name="NumberAnswer" ColumnName="NumberAnswer" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Audio" ColumnName="Audio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUESTIONS_TEMP">
+      <EntityTypeMapping TypeName="MTAQuizModel.QUESTIONS_TEMP">
+        <MappingFragment StoreEntitySet="QUESTIONS_TEMP">
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionContent" ColumnName="QuestionContent" />
+          <ScalarProperty Name="QuestionFormat" ColumnName="QuestionFormat" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="IsQuiz" ColumnName="IsQuiz" />
+          <ScalarProperty Name="IsSingleChoice" ColumnName="IsSingleChoice" />
+          <ScalarProperty Name="IsParagarph" ColumnName="IsParagarph" />
+          <ScalarProperty Name="IsQuestionContent" ColumnName="IsQuestionContent" />
+          <ScalarProperty Name="NumberSubQuestion" ColumnName="NumberSubQuestion" />
+          <ScalarProperty Name="NumberAnswer" ColumnName="NumberAnswer" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="QuestionTempID" ColumnName="QuestionTempID" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="Audio" ColumnName="Audio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ROOMDIAGRAMS">
+      <EntityTypeMapping TypeName="MTAQuizModel.ROOMDIAGRAM">
+        <MappingFragment StoreEntitySet="ROOMDIAGRAMS">
+          <ScalarProperty Name="RoomDiagramID" ColumnName="RoomDiagramID" />
+          <ScalarProperty Name="ComputerCode" ColumnName="ComputerCode" />
+          <ScalarProperty Name="ComputerName" ColumnName="ComputerName" />
+          <ScalarProperty Name="ClientIP" ColumnName="ClientIP" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ROOMTESTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.ROOMTEST">
+        <MappingFragment StoreEntitySet="ROOMTESTS">
+          <ScalarProperty Name="RoomTestID" ColumnName="RoomTestID" />
+          <ScalarProperty Name="RoomTestName" ColumnName="RoomTestName" />
+          <ScalarProperty Name="MaxSeatMount" ColumnName="MaxSeatMount" />
+          <ScalarProperty Name="MaxSupervisor" ColumnName="MaxSupervisor" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="LocationID" ColumnName="LocationID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SCHEDULES">
+      <EntityTypeMapping TypeName="MTAQuizModel.SCHEDULE">
+        <MappingFragment StoreEntitySet="SCHEDULES">
+          <ScalarProperty Name="ScheduleID" ColumnName="ScheduleID" />
+          <ScalarProperty Name="TimeOfTest" ColumnName="TimeOfTest" />
+          <ScalarProperty Name="TimeToSubmit" ColumnName="TimeToSubmit" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+          <ScalarProperty Name="ContestTypeName" ColumnName="ContestTypeName" />
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SHIFTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.SHIFT">
+        <MappingFragment StoreEntitySet="SHIFTS">
+          <ScalarProperty Name="ShiftID" ColumnName="ShiftID" />
+          <ScalarProperty Name="ShiftName" ColumnName="ShiftName" />
+          <ScalarProperty Name="ShiftDate" ColumnName="ShiftDate" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="EndTime" ColumnName="EndTime" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="ContestID" ColumnName="ContestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFS">
+      <EntityTypeMapping TypeName="MTAQuizModel.STAFF">
+        <MappingFragment StoreEntitySet="STAFFS">
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Sex" ColumnName="Sex" />
+          <ScalarProperty Name="IdentityCardNumber" ColumnName="IdentityCardNumber" />
+          <ScalarProperty Name="AcademicRank" ColumnName="AcademicRank" />
+          <ScalarProperty Name="Degree" ColumnName="Degree" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="STAFFS_POSITIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.STAFFS_POSITIONS">
+        <MappingFragment StoreEntitySet="STAFFS_POSITIONS">
+          <ScalarProperty Name="StaffPositionID" ColumnName="StaffPositionID" />
+          <ScalarProperty Name="StaffID" ColumnName="StaffID" />
+          <ScalarProperty Name="PositionID" ColumnName="PositionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBJECTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.SUBJECT">
+        <MappingFragment StoreEntitySet="SUBJECTS">
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+          <ScalarProperty Name="SubjectCode" ColumnName="SubjectCode" />
+          <ScalarProperty Name="SubjectName" ColumnName="SubjectName" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBQUESTIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.SUBQUESTION">
+        <MappingFragment StoreEntitySet="SUBQUESTIONS">
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionContent" ColumnName="SubQuestionContent" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SUBQUESTIONS_TEMP">
+      <EntityTypeMapping TypeName="MTAQuizModel.SUBQUESTIONS_TEMP">
+        <MappingFragment StoreEntitySet="SUBQUESTIONS_TEMP">
+          <ScalarProperty Name="SubQuestionID" ColumnName="SubQuestionID" />
+          <ScalarProperty Name="SubQuestionContent" ColumnName="SubQuestionContent" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+          <ScalarProperty Name="QuestionTempID" ColumnName="QuestionTempID" />
+          <ScalarProperty Name="DivisionShiftID" ColumnName="DivisionShiftID" />
+          <ScalarProperty Name="SubQuestionTempID" ColumnName="SubQuestionTempID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="MTAQuizModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEST_DETAILS">
+      <EntityTypeMapping TypeName="MTAQuizModel.TEST_DETAILS">
+        <MappingFragment StoreEntitySet="TEST_DETAILS">
+          <ScalarProperty Name="TestDetailID" ColumnName="TestDetailID" />
+          <ScalarProperty Name="RandomAnswer" ColumnName="RandomAnswer" />
+          <ScalarProperty Name="NumberIndex" ColumnName="NumberIndex" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+          <ScalarProperty Name="QuestionID" ColumnName="QuestionID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TESTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.TEST">
+        <MappingFragment StoreEntitySet="TESTS">
+          <ScalarProperty Name="TestID" ColumnName="TestID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="BagOfTestID" ColumnName="BagOfTestID" />
+          <ScalarProperty Name="SubjectID" ColumnName="SubjectID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VIOLATIONS">
+      <EntityTypeMapping TypeName="MTAQuizModel.VIOLATION">
+        <MappingFragment StoreEntitySet="VIOLATIONS">
+          <ScalarProperty Name="ViolationID" ColumnName="ViolationID" />
+          <ScalarProperty Name="ViolationName" ColumnName="ViolationName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VIOLATIONS_CONTESTANTS">
+      <EntityTypeMapping TypeName="MTAQuizModel.VIOLATIONS_CONTESTANTS">
+        <MappingFragment StoreEntitySet="VIOLATIONS_CONTESTANTS">
+          <ScalarProperty Name="ViolationDetailID" ColumnName="ViolationDetailID" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TimeSave" ColumnName="TimeSave" />
+          <ScalarProperty Name="ViolationID" ColumnName="ViolationID" />
+          <ScalarProperty Name="ContestantShiftID" ColumnName="ContestantShiftID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

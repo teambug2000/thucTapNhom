@@ -1,0 +1,20 @@
+D:\Projects\hvktqs-exonsystem2017-5e78229506e3\Project\PH THI\EXONSYSTEM\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\hvktqs-exonsystem2017-5e78229506e3\Project\PH THI\EXONSYSTEM\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\hvktqs-exonsystem2017-5e78229506e3\Project\PH THI\EXONSYSTEM\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\hvktqs-exonsystem2017-5e78229506e3\Project\PH THI\EXONSYSTEM\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\hvktqs-exonsystem2017-5e78229506e3\Project\PH THI\EXONSYSTEM\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EXONSYSTEM - Copy\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\Admin\Desktop\EXONSYSTEM - Copy\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\Admin\Desktop\EXONSYSTEM - Copy\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EXONSYSTEM - Copy\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\Admin\Desktop\EXONSYSTEM - Copy\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\EXON\EXONSYSTEM -Main\UserHelper\bin\Debug\UserHelper.dll
+D:\Projects\EXON\EXONSYSTEM -Main\UserHelper\bin\Debug\UserHelper.pdb
+D:\Projects\EXON\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.dll
+D:\Projects\EXON\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.pdb
+D:\Projects\EXON\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\UserHelper\bin\Debug\UserHelper.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\UserHelper\bin\Debug\UserHelper.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.dll
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.pdb
+C:\Users\Admin\Documents\TuDHM\EXONSYSTEM -Main\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache

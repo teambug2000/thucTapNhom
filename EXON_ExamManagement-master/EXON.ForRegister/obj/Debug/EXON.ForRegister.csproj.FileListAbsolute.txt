@@ -1,0 +1,861 @@
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.xml
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\Projects\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.EXON.ForRegister.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Design.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE80.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\stdole.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.MSXML.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE80.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\stdole.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.ForRegister.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.Design.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.SqlServer.Types.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EnvDTE80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\stdole.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\VSLangProj.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\VSLangProj80.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.MSXML.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\VSLangProj2.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubData.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON_EM.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Data.Services.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Data.Core.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.EXON.ForRegister.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.FormMain.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.ForRegister\obj\Debug\EXON.ForRegister.pdb

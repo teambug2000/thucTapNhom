@@ -1,0 +1,14 @@
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\bin\Debug\WPFhost.exe.config
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\bin\Debug\WPFhost.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\bin\Debug\WPFhost.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\MainWindow.g.cs
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\App.g.cs
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost_MarkupCompile.cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost_MarkupCompile.lref
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\MainWindow.baml
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.g.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.Properties.Resources.resources
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.csproj.GenerateResource.Cache
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.exe
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\WPFhost\obj\Debug\WPFhost.pdb

@@ -1,0 +1,764 @@
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+C:\Users\vncoder\Downloads\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+C:\Users\Shindo\Desktop\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+H:\Projects\Exam Online\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.xml
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\Projects\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\main12-3\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.EXON.TakeExam.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.TakeExam.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Design.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\MetroFramework.Fonts.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.DirectShow.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.Video.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\log4net.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\irrKlang.NET4.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\AForge.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\Bunifu_UI_v1.5.3.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Register.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXONSYSTEM.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Data.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\EXON.Common.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\UserHelper.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.EXON.TakeExam.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.frmTakeExam.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.TakeExam\obj\Debug\EXON.TakeExam.pdb

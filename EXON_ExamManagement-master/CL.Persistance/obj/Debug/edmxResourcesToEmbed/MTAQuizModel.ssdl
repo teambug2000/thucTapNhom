@@ -1,0 +1,973 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MTAQuizModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ANSWERS">
+    <Key>
+      <PropertyRef Name="AnswerID" />
+    </Key>
+    <Property Name="AnswerID" Type="int" Nullable="false" />
+    <Property Name="AnswerContent" Type="nvarchar(max)" />
+    <Property Name="IsCorrect" Type="bit" Nullable="false" />
+    <Property Name="SubQuestionID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ANSWERS_TEMP">
+    <Key>
+      <PropertyRef Name="AnswerTempID" />
+    </Key>
+    <Property Name="AnswerID" Type="int" Nullable="false" />
+    <Property Name="AnswerContent" Type="nvarchar(max)" />
+    <Property Name="IsCorrect" Type="bit" Nullable="false" />
+    <Property Name="SubQuestionID" Type="int" Nullable="false" />
+    <Property Name="SubQuestionTempID" Type="int" />
+    <Property Name="DivisionShiftID" Type="int" Nullable="false" />
+    <Property Name="AnswerTempID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ANSWERSHEET_DETAILS">
+    <Key>
+      <PropertyRef Name="AnswerSheetDetailID" />
+    </Key>
+    <Property Name="AnswerSheetDetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ChoosenAnswer" Type="int" />
+    <Property Name="AnswerContent" Type="nvarchar(max)" />
+    <Property Name="LastTime" Type="int" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="AnswerSheetID" Type="int" Nullable="false" />
+    <Property Name="SubQuestionID" Type="int" Nullable="false" />
+    <Property Name="Score" Type="float" />
+    <Property Name="Comment" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="ANSWERSHEETS">
+    <Key>
+      <PropertyRef Name="AnswerSheetID" />
+    </Key>
+    <Property Name="AnswerSheetID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TestScores" Type="float" />
+    <Property Name="EssayPoints" Type="float" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestantTestID" Type="int" Nullable="false" />
+    <Property Name="StaffID" Type="int" />
+  </EntityType>
+  <EntityType Name="BAGOFTESTS">
+    <Key>
+      <PropertyRef Name="BagOfTestID" />
+    </Key>
+    <Property Name="BagOfTestID" Type="int" Nullable="false" />
+    <Property Name="NumberOfTest" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="DivisionShiftID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS">
+    <Key>
+      <PropertyRef Name="ContestantID" />
+    </Key>
+    <Property Name="ContestantID" Type="int" Nullable="false" />
+    <Property Name="ContestantCode" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="ContestantType" Type="nvarchar(max)" />
+    <Property Name="FullName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="DOB" Type="int" />
+    <Property Name="Ethnic" Type="nvarchar" MaxLength="100" />
+    <Property Name="PlaceOfBirth" Type="nvarchar(max)" />
+    <Property Name="HighSchool" Type="nvarchar(max)" />
+    <Property Name="Sex" Type="int" />
+    <Property Name="IdentityCardNumber" Type="varchar" MaxLength="12" />
+    <Property Name="Unit" Type="nvarchar" MaxLength="100" />
+    <Property Name="CurrentAddress" Type="nvarchar(max)" />
+    <Property Name="TrainingSystem" Type="nvarchar(max)" />
+    <Property Name="StudentCode" Type="varchar" MaxLength="20" />
+    <Property Name="Image" Type="varbinary(max)" />
+    <Property Name="Status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS_SHIFTS">
+    <Key>
+      <PropertyRef Name="ContestantShiftID" />
+    </Key>
+    <Property Name="ContestantShiftID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="IsCheckFingerprint" Type="int" />
+    <Property Name="TimeCheck" Type="int" />
+    <Property Name="TimeStarted" Type="int" />
+    <Property Name="TimeWorked" Type="int" />
+    <Property Name="DivisionShiftID" Type="int" Nullable="false" />
+    <Property Name="ScheduleID" Type="int" Nullable="false" />
+    <Property Name="ContestantID" Type="int" Nullable="false" />
+    <Property Name="RoomDiagramID" Type="int" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS_TESTS">
+    <Key>
+      <PropertyRef Name="ContestantTestID" />
+    </Key>
+    <Property Name="ContestantTestID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestantShiftID" Type="int" Nullable="false" />
+    <Property Name="TestID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CONTESTS">
+    <Key>
+      <PropertyRef Name="ContestID" />
+    </Key>
+    <Property Name="ContestID" Type="int" Nullable="false" />
+    <Property Name="ContestName" Type="nvarchar(max)" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="CreatedDate" Type="int" />
+    <Property Name="EndDate" Type="int" />
+    <Property Name="AcceptedDate" Type="int" />
+    <Property Name="BeginRegistration" Type="int" />
+    <Property Name="EndRegistration" Type="int" />
+    <Property Name="CreatedQuestionStartDate" Type="int" />
+    <Property Name="CreatedQuestionEndDate" Type="int" />
+    <Property Name="SchoolYear" Type="varchar" MaxLength="20" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="CreatedStaffID" Type="int" />
+    <Property Name="AcceptedStaffID" Type="int" />
+  </EntityType>
+  <EntityType Name="DIVISION_SHIFTS">
+    <Key>
+      <PropertyRef Name="DivisionShiftID" />
+    </Key>
+    <Property Name="DivisionShiftID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ShiftID" Type="int" Nullable="false" />
+    <Property Name="RoomTestID" Type="int" Nullable="false" />
+    <Property Name="Key" Type="nvarchar" MaxLength="20" />
+    <Property Name="CheckFinger" Type="int" />
+  </EntityType>
+  <EntityType Name="DIVISIONSHIFT_SUPERVISOR">
+    <Key>
+      <PropertyRef Name="DivisionShift_SupervisorID" />
+    </Key>
+    <Property Name="DivisionShift_SupervisorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SupervisorID" Type="int" />
+    <Property Name="DivisionShiftID" Type="int" />
+  </EntityType>
+  <EntityType Name="EXAMINATIONCOUNCIL_POSITIONS">
+    <Key>
+      <PropertyRef Name="ExaminationCouncil_PositionID" />
+    </Key>
+    <Property Name="ExaminationCouncil_PositionID" Type="int" Nullable="false" />
+    <Property Name="ExaminationCouncil_PositionCode" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="ExaminationCouncil_PositionName" Type="nvarchar(max)" />
+    <Property Name="Permission" Type="int" />
+    <Property Name="Status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="EXAMINATIONCOUNCIL_STAFFS">
+    <Key>
+      <PropertyRef Name="ExaminationCouncil_StaffID" />
+    </Key>
+    <Property Name="ExaminationCouncil_StaffID" Type="int" Nullable="false" />
+    <Property Name="StaffID" Type="int" />
+    <Property Name="ExaminationCouncil_PositionID" Type="int" />
+    <Property Name="LocationID" Type="int" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+    <Property Name="Password" Type="nvarchar(max)" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestID" Type="int" />
+  </EntityType>
+  <EntityType Name="FINGERPRINTS">
+    <Key>
+      <PropertyRef Name="FingerprintID" />
+    </Key>
+    <Property Name="FingerprintID" Type="int" Nullable="false" />
+    <Property Name="FingerprintImage" Type="varbinary(max)" />
+    <Property Name="FilePath" Type="nvarchar(max)" />
+    <Property Name="TimeSaveFingerprint" Type="int" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestantID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LOCATIONS">
+    <Key>
+      <PropertyRef Name="LocationID" />
+    </Key>
+    <Property Name="LocationID" Type="int" Nullable="false" />
+    <Property Name="LocationName" Type="nvarchar(max)" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="POSITIONS">
+    <Key>
+      <PropertyRef Name="PositionID" />
+    </Key>
+    <Property Name="PositionID" Type="int" Nullable="false" />
+    <Property Name="PositionCode" Type="varchar" MaxLength="10" />
+    <Property Name="PositionName" Type="nvarchar(max)" />
+    <Property Name="Permission" Type="int" />
+    <Property Name="Status" Type="int" />
+  </EntityType>
+  <EntityType Name="QUESTIONS">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+    <Property Name="QuestionContent" Type="nvarchar(max)" />
+    <Property Name="QuestionFormat" Type="int" Nullable="false" />
+    <Property Name="Level" Type="int" />
+    <Property Name="IsQuiz" Type="bit" Nullable="false" />
+    <Property Name="IsSingleChoice" Type="bit" Nullable="false" />
+    <Property Name="IsParagraph" Type="bit" Nullable="false" />
+    <Property Name="IsQuestionContent" Type="bit" Nullable="false" />
+    <Property Name="NumberSubQuestion" Type="int" Nullable="false" />
+    <Property Name="NumberAnswer" Type="int" Nullable="false" />
+    <Property Name="Type" Type="int" />
+    <Property Name="Audio" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="QUESTIONS_TEMP">
+    <Key>
+      <PropertyRef Name="QuestionTempID" />
+    </Key>
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+    <Property Name="QuestionContent" Type="nvarchar(max)" />
+    <Property Name="QuestionFormat" Type="int" />
+    <Property Name="Level" Type="int" />
+    <Property Name="IsQuiz" Type="bit" />
+    <Property Name="IsSingleChoice" Type="bit" />
+    <Property Name="IsParagarph" Type="bit" />
+    <Property Name="IsQuestionContent" Type="bit" />
+    <Property Name="NumberSubQuestion" Type="int" />
+    <Property Name="NumberAnswer" Type="int" />
+    <Property Name="DivisionShiftID" Type="int" />
+    <Property Name="QuestionTempID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Type" Type="int" />
+    <Property Name="Audio" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="ROOMDIAGRAMS">
+    <Key>
+      <PropertyRef Name="RoomDiagramID" />
+    </Key>
+    <Property Name="RoomDiagramID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ComputerCode" Type="varchar" MaxLength="50" />
+    <Property Name="ComputerName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ClientIP" Type="varchar" MaxLength="25" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="RoomTestID" Type="int" />
+  </EntityType>
+  <EntityType Name="ROOMTESTS">
+    <Key>
+      <PropertyRef Name="RoomTestID" />
+    </Key>
+    <Property Name="RoomTestID" Type="int" Nullable="false" />
+    <Property Name="RoomTestName" Type="nvarchar" MaxLength="100" />
+    <Property Name="MaxSeatMount" Type="int" Nullable="false" />
+    <Property Name="MaxSupervisor" Type="int" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="LocationID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SCHEDULES">
+    <Key>
+      <PropertyRef Name="ScheduleID" />
+    </Key>
+    <Property Name="ScheduleID" Type="int" Nullable="false" />
+    <Property Name="TimeOfTest" Type="int" Nullable="false" />
+    <Property Name="TimeToSubmit" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestID" Type="int" />
+    <Property Name="ContestTypeName" Type="nvarchar(max)" />
+    <Property Name="SubjectID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SHIFTS">
+    <Key>
+      <PropertyRef Name="ShiftID" />
+    </Key>
+    <Property Name="ShiftID" Type="int" Nullable="false" />
+    <Property Name="ShiftName" Type="nvarchar" MaxLength="100" />
+    <Property Name="ShiftDate" Type="int" Nullable="false" />
+    <Property Name="StartTime" Type="int" Nullable="false" />
+    <Property Name="EndTime" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="ContestID" Type="int" />
+  </EntityType>
+  <EntityType Name="STAFFS">
+    <Key>
+      <PropertyRef Name="StaffID" />
+    </Key>
+    <Property Name="StaffID" Type="int" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="100" />
+    <Property Name="DOB" Type="int" />
+    <Property Name="Sex" Type="int" />
+    <Property Name="IdentityCardNumber" Type="varchar" MaxLength="12" />
+    <Property Name="AcademicRank" Type="nvarchar" MaxLength="100" />
+    <Property Name="Degree" Type="nvarchar" MaxLength="100" />
+    <Property Name="Status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="STAFFS_POSITIONS">
+    <Key>
+      <PropertyRef Name="StaffPositionID" />
+    </Key>
+    <Property Name="StaffPositionID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StaffID" Type="int" Nullable="false" />
+    <Property Name="PositionID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SUBJECTS">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="int" Nullable="false" />
+    <Property Name="SubjectCode" Type="varchar" MaxLength="10" />
+    <Property Name="SubjectName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SUBQUESTIONS">
+    <Key>
+      <PropertyRef Name="SubQuestionID" />
+    </Key>
+    <Property Name="SubQuestionID" Type="int" Nullable="false" />
+    <Property Name="SubQuestionContent" Type="nvarchar(max)" />
+    <Property Name="Score" Type="float" />
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SUBQUESTIONS_TEMP">
+    <Key>
+      <PropertyRef Name="SubQuestionTempID" />
+    </Key>
+    <Property Name="SubQuestionID" Type="int" Nullable="false" />
+    <Property Name="SubQuestionContent" Type="nvarchar(max)" />
+    <Property Name="Score" Type="float" />
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+    <Property Name="QuestionTempID" Type="int" />
+    <Property Name="DivisionShiftID" Type="int" Nullable="false" />
+    <Property Name="SubQuestionTempID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TEST_DETAILS">
+    <Key>
+      <PropertyRef Name="TestDetailID" />
+    </Key>
+    <Property Name="TestDetailID" Type="int" Nullable="false" />
+    <Property Name="RandomAnswer" Type="varchar(max)" />
+    <Property Name="NumberIndex" Type="int" Nullable="false" />
+    <Property Name="Score" Type="float" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="TestID" Type="int" Nullable="false" />
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TESTS">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="BagOfTestID" Type="int" Nullable="false" />
+    <Property Name="SubjectID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VIOLATIONS">
+    <Key>
+      <PropertyRef Name="ViolationID" />
+    </Key>
+    <Property Name="ViolationID" Type="int" Nullable="false" />
+    <Property Name="ViolationName" Type="nvarchar" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Level" Type="int" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VIOLATIONS_CONTESTANTS">
+    <Key>
+      <PropertyRef Name="ViolationDetailID" />
+    </Key>
+    <Property Name="ViolationDetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Status" Type="int" Nullable="false" />
+    <Property Name="TimeSave" Type="int" />
+    <Property Name="ViolationID" Type="int" Nullable="false" />
+    <Property Name="ContestantShiftID" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ANSWERS_SUBQUESTIONS">
+    <End Role="SUBQUESTIONS" Type="Self.SUBQUESTIONS" Multiplicity="1" />
+    <End Role="ANSWERS" Type="Self.ANSWERS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBQUESTIONS">
+        <PropertyRef Name="SubQuestionID" />
+      </Principal>
+      <Dependent Role="ANSWERS">
+        <PropertyRef Name="SubQuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ANSWERSHEETDETAIL_SUBQUESTIONS">
+    <End Role="SUBQUESTIONS" Type="Self.SUBQUESTIONS" Multiplicity="1" />
+    <End Role="ANSWERSHEET_DETAILS" Type="Self.ANSWERSHEET_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBQUESTIONS">
+        <PropertyRef Name="SubQuestionID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEET_DETAILS">
+        <PropertyRef Name="SubQuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ANSWERSHEETDETAILS_ANSWERSHEETS">
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEETS" Multiplicity="1" />
+    <End Role="ANSWERSHEET_DETAILS" Type="Self.ANSWERSHEET_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ANSWERSHEETS">
+        <PropertyRef Name="AnswerSheetID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEET_DETAILS">
+        <PropertyRef Name="AnswerSheetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ANSWERSHEETS_CONTESTANTSTESTS">
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="1" />
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEETS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="ContestantTestID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEETS">
+        <PropertyRef Name="ContestantTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ANSWERSHEETS_STAFF">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="0..1" />
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEETS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEETS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BAGOFTESTS_DIVISION_SHIFTS">
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="1" />
+    <End Role="BAGOFTESTS" Type="Self.BAGOFTESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIVISION_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Principal>
+      <Dependent Role="BAGOFTESTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSSHIFTS_CONTESTANT">
+    <End Role="CONTESTANTS" Type="Self.CONTESTANTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS">
+        <PropertyRef Name="ContestantID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSSHIFTS_ROOMDIAGRAMS">
+    <End Role="ROOMDIAGRAMS" Type="Self.ROOMDIAGRAMS" Multiplicity="0..1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMDIAGRAMS">
+        <PropertyRef Name="RoomDiagramID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="RoomDiagramID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSSHIFTS_SCHEDULES">
+    <End Role="SCHEDULES" Type="Self.SCHEDULES" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SCHEDULES">
+        <PropertyRef Name="ScheduleID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ScheduleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSSHIFTS_SHIFT">
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIVISION_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSTESTS_CONTESTANTSSHIFTS">
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTSTESTS_TESTS">
+    <End Role="TESTS" Type="Self.TESTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TESTS">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DivisionShift_Supervisor_DIVISION_SHIFTS">
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="0..1" />
+    <End Role="DIVISIONSHIFT_SUPERVISOR" Type="Self.DIVISIONSHIFT_SUPERVISOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIVISION_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Principal>
+      <Dependent Role="DIVISIONSHIFT_SUPERVISOR">
+        <PropertyRef Name="DivisionShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DivisionShift_Supervisor_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="0..1" />
+    <End Role="DIVISIONSHIFT_SUPERVISOR" Type="Self.DIVISIONSHIFT_SUPERVISOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="DIVISIONSHIFT_SUPERVISOR">
+        <PropertyRef Name="SupervisorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIVISIONSHIFTS_ROOMTESTS">
+    <End Role="ROOMTESTS" Type="Self.ROOMTESTS" Multiplicity="1" />
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMTESTS">
+        <PropertyRef Name="RoomTestID" />
+      </Principal>
+      <Dependent Role="DIVISION_SHIFTS">
+        <PropertyRef Name="RoomTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DIVISIONSHIFTS_SHIFTS">
+    <End Role="SHIFTS" Type="Self.SHIFTS" Multiplicity="1" />
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SHIFTS">
+        <PropertyRef Name="ShiftID" />
+      </Principal>
+      <Dependent Role="DIVISION_SHIFTS">
+        <PropertyRef Name="ShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExaminationCouncil_Position">
+    <End Role="EXAMINATIONCOUNCIL_POSITIONS" Type="Self.EXAMINATIONCOUNCIL_POSITIONS" Multiplicity="0..1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EXAMINATIONCOUNCIL_POSITIONS">
+        <PropertyRef Name="ExaminationCouncil_PositionID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="ExaminationCouncil_PositionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EXAMINATIONCOUNCIL_STAFFS_CONTESTS">
+    <End Role="CONTESTS" Type="Self.CONTESTS" Multiplicity="0..1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EXAMINATIONCOUNCIL_STAFFS_LOCATIONS">
+    <End Role="LOCATIONS" Type="Self.LOCATIONS" Multiplicity="0..1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOCATIONS">
+        <PropertyRef Name="LocationID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="LocationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FINGERPRINTS_CONTESTANTS">
+    <End Role="CONTESTANTS" Type="Self.CONTESTANTS" Multiplicity="1" />
+    <End Role="FINGERPRINTS" Type="Self.FINGERPRINTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS">
+        <PropertyRef Name="ContestantID" />
+      </Principal>
+      <Dependent Role="FINGERPRINTS">
+        <PropertyRef Name="ContestantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LOCATIONS_CONTESTS">
+    <End Role="CONTESTS" Type="Self.CONTESTS" Multiplicity="1" />
+    <End Role="LOCATIONS" Type="Self.LOCATIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="LOCATIONS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ROOMDIAGRAMS_ROOMTESTS">
+    <End Role="ROOMTESTS" Type="Self.ROOMTESTS" Multiplicity="0..1" />
+    <End Role="ROOMDIAGRAMS" Type="Self.ROOMDIAGRAMS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMTESTS">
+        <PropertyRef Name="RoomTestID" />
+      </Principal>
+      <Dependent Role="ROOMDIAGRAMS">
+        <PropertyRef Name="RoomTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ROOMTESTS_LOCATIONS">
+    <End Role="LOCATIONS" Type="Self.LOCATIONS" Multiplicity="1" />
+    <End Role="ROOMTESTS" Type="Self.ROOMTESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOCATIONS">
+        <PropertyRef Name="LocationID" />
+      </Principal>
+      <Dependent Role="ROOMTESTS">
+        <PropertyRef Name="LocationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SCHEDULES_SUBJECTS">
+    <End Role="SUBJECTS" Type="Self.SUBJECTS" Multiplicity="1" />
+    <End Role="SCHEDULES" Type="Self.SCHEDULES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="SCHEDULES">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SHIFTS_CONTESTS">
+    <End Role="CONTESTS" Type="Self.CONTESTS" Multiplicity="0..1" />
+    <End Role="SHIFTS" Type="Self.SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="SHIFTS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="0..1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS_POSITIONS_POSITIONS">
+    <End Role="POSITIONS" Type="Self.POSITIONS" Multiplicity="1" />
+    <End Role="STAFFS_POSITIONS" Type="Self.STAFFS_POSITIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="POSITIONS">
+        <PropertyRef Name="PositionID" />
+      </Principal>
+      <Dependent Role="STAFFS_POSITIONS">
+        <PropertyRef Name="PositionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS_POSITIONS_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFFS" Multiplicity="1" />
+    <End Role="STAFFS_POSITIONS" Type="Self.STAFFS_POSITIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="STAFFS_POSITIONS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SUBQUESTIONS_QUESTIONS">
+    <End Role="QUESTIONS" Type="Self.QUESTIONS" Multiplicity="1" />
+    <End Role="SUBQUESTIONS" Type="Self.SUBQUESTIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="SUBQUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TESTDETAILS_QUESTIONS">
+    <End Role="QUESTIONS" Type="Self.QUESTIONS" Multiplicity="1" />
+    <End Role="TEST_DETAILS" Type="Self.TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="TEST_DETAILS">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TESTDETAILS_TESTS">
+    <End Role="TESTS" Type="Self.TESTS" Multiplicity="1" />
+    <End Role="TEST_DETAILS" Type="Self.TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TESTS">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="TEST_DETAILS">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TESTS_BAGOFTESTS">
+    <End Role="BAGOFTESTS" Type="Self.BAGOFTESTS" Multiplicity="1" />
+    <End Role="TESTS" Type="Self.TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BAGOFTESTS">
+        <PropertyRef Name="BagOfTestID" />
+      </Principal>
+      <Dependent Role="TESTS">
+        <PropertyRef Name="BagOfTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TESTS_SUBJECTS">
+    <End Role="SUBJECTS" Type="Self.SUBJECTS" Multiplicity="1" />
+    <End Role="TESTS" Type="Self.TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="TESTS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VIOLATIONSCONTESTANTS_CONTESTTANT">
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="1" />
+    <End Role="VIOLATIONS_CONTESTANTS" Type="Self.VIOLATIONS_CONTESTANTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Principal>
+      <Dependent Role="VIOLATIONS_CONTESTANTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VIOLATIONSCONTESTANTS_VIOLATIONS">
+    <End Role="VIOLATIONS" Type="Self.VIOLATIONS" Multiplicity="1" />
+    <End Role="VIOLATIONS_CONTESTANTS" Type="Self.VIOLATIONS_CONTESTANTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VIOLATIONS">
+        <PropertyRef Name="ViolationID" />
+      </Principal>
+      <Dependent Role="VIOLATIONS_CONTESTANTS">
+        <PropertyRef Name="ViolationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MTAQuizModelStoreContainer">
+    <EntitySet Name="ANSWERS" EntityType="Self.ANSWERS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ANSWERS_TEMP" EntityType="Self.ANSWERS_TEMP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ANSWERSHEET_DETAILS" EntityType="Self.ANSWERSHEET_DETAILS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ANSWERSHEETS" EntityType="Self.ANSWERSHEETS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BAGOFTESTS" EntityType="Self.BAGOFTESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CONTESTANTS" EntityType="Self.CONTESTANTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CONTESTANTS_SHIFTS" EntityType="Self.CONTESTANTS_SHIFTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CONTESTANTS_TESTS" EntityType="Self.CONTESTANTS_TESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CONTESTS" EntityType="Self.CONTESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIVISION_SHIFTS" EntityType="Self.DIVISION_SHIFTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DIVISIONSHIFT_SUPERVISOR" EntityType="Self.DIVISIONSHIFT_SUPERVISOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EXAMINATIONCOUNCIL_POSITIONS" EntityType="Self.EXAMINATIONCOUNCIL_POSITIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EXAMINATIONCOUNCIL_STAFFS" EntityType="Self.EXAMINATIONCOUNCIL_STAFFS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FINGERPRINTS" EntityType="Self.FINGERPRINTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOCATIONS" EntityType="Self.LOCATIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="POSITIONS" EntityType="Self.POSITIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QUESTIONS" EntityType="Self.QUESTIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QUESTIONS_TEMP" EntityType="Self.QUESTIONS_TEMP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ROOMDIAGRAMS" EntityType="Self.ROOMDIAGRAMS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ROOMTESTS" EntityType="Self.ROOMTESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SCHEDULES" EntityType="Self.SCHEDULES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SHIFTS" EntityType="Self.SHIFTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STAFFS" EntityType="Self.STAFFS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="STAFFS_POSITIONS" EntityType="Self.STAFFS_POSITIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SUBJECTS" EntityType="Self.SUBJECTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SUBQUESTIONS" EntityType="Self.SUBQUESTIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SUBQUESTIONS_TEMP" EntityType="Self.SUBQUESTIONS_TEMP" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEST_DETAILS" EntityType="Self.TEST_DETAILS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TESTS" EntityType="Self.TESTS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VIOLATIONS" EntityType="Self.VIOLATIONS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VIOLATIONS_CONTESTANTS" EntityType="Self.VIOLATIONS_CONTESTANTS" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_ANSWERS_SUBQUESTIONS" Association="Self.FK_ANSWERS_SUBQUESTIONS">
+      <End Role="SUBQUESTIONS" EntitySet="SUBQUESTIONS" />
+      <End Role="ANSWERS" EntitySet="ANSWERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ANSWERSHEETDETAIL_SUBQUESTIONS" Association="Self.FK_ANSWERSHEETDETAIL_SUBQUESTIONS">
+      <End Role="SUBQUESTIONS" EntitySet="SUBQUESTIONS" />
+      <End Role="ANSWERSHEET_DETAILS" EntitySet="ANSWERSHEET_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ANSWERSHEETDETAILS_ANSWERSHEETS" Association="Self.FK_ANSWERSHEETDETAILS_ANSWERSHEETS">
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+      <End Role="ANSWERSHEET_DETAILS" EntitySet="ANSWERSHEET_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ANSWERSHEETS_CONTESTANTSTESTS" Association="Self.FK_ANSWERSHEETS_CONTESTANTSTESTS">
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ANSWERSHEETS_STAFF" Association="Self.FK_ANSWERSHEETS_STAFF">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BAGOFTESTS_DIVISION_SHIFTS" Association="Self.FK_BAGOFTESTS_DIVISION_SHIFTS">
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+      <End Role="BAGOFTESTS" EntitySet="BAGOFTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSSHIFTS_CONTESTANT" Association="Self.FK_CONTESTANTSSHIFTS_CONTESTANT">
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSSHIFTS_ROOMDIAGRAMS" Association="Self.FK_CONTESTANTSSHIFTS_ROOMDIAGRAMS">
+      <End Role="ROOMDIAGRAMS" EntitySet="ROOMDIAGRAMS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSSHIFTS_SCHEDULES" Association="Self.FK_CONTESTANTSSHIFTS_SCHEDULES">
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSSHIFTS_SHIFT" Association="Self.FK_CONTESTANTSSHIFTS_SHIFT">
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSTESTS_CONTESTANTSSHIFTS" Association="Self.FK_CONTESTANTSTESTS_CONTESTANTSSHIFTS">
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTSTESTS_TESTS" Association="Self.FK_CONTESTANTSTESTS_TESTS">
+      <End Role="TESTS" EntitySet="TESTS" />
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DivisionShift_Supervisor_DIVISION_SHIFTS" Association="Self.FK_DivisionShift_Supervisor_DIVISION_SHIFTS">
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+      <End Role="DIVISIONSHIFT_SUPERVISOR" EntitySet="DIVISIONSHIFT_SUPERVISOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DivisionShift_Supervisor_STAFFS" Association="Self.FK_DivisionShift_Supervisor_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="DIVISIONSHIFT_SUPERVISOR" EntitySet="DIVISIONSHIFT_SUPERVISOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIVISIONSHIFTS_ROOMTESTS" Association="Self.FK_DIVISIONSHIFTS_ROOMTESTS">
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DIVISIONSHIFTS_SHIFTS" Association="Self.FK_DIVISIONSHIFTS_SHIFTS">
+      <End Role="SHIFTS" EntitySet="SHIFTS" />
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExaminationCouncil_Position" Association="Self.FK_ExaminationCouncil_Position">
+      <End Role="EXAMINATIONCOUNCIL_POSITIONS" EntitySet="EXAMINATIONCOUNCIL_POSITIONS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EXAMINATIONCOUNCIL_STAFFS_CONTESTS" Association="Self.FK_EXAMINATIONCOUNCIL_STAFFS_CONTESTS">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EXAMINATIONCOUNCIL_STAFFS_LOCATIONS" Association="Self.FK_EXAMINATIONCOUNCIL_STAFFS_LOCATIONS">
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FINGERPRINTS_CONTESTANTS" Association="Self.FK_FINGERPRINTS_CONTESTANTS">
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+      <End Role="FINGERPRINTS" EntitySet="FINGERPRINTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LOCATIONS_CONTESTS" Association="Self.FK_LOCATIONS_CONTESTS">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ROOMDIAGRAMS_ROOMTESTS" Association="Self.FK_ROOMDIAGRAMS_ROOMTESTS">
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+      <End Role="ROOMDIAGRAMS" EntitySet="ROOMDIAGRAMS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ROOMTESTS_LOCATIONS" Association="Self.FK_ROOMTESTS_LOCATIONS">
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SCHEDULES_SUBJECTS" Association="Self.FK_SCHEDULES_SUBJECTS">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SHIFTS_CONTESTS" Association="Self.FK_SHIFTS_CONTESTS">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="SHIFTS" EntitySet="SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS" Association="Self.FK_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS_POSITIONS_POSITIONS" Association="Self.FK_STAFFS_POSITIONS_POSITIONS">
+      <End Role="POSITIONS" EntitySet="POSITIONS" />
+      <End Role="STAFFS_POSITIONS" EntitySet="STAFFS_POSITIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS_POSITIONS_STAFFS" Association="Self.FK_STAFFS_POSITIONS_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="STAFFS_POSITIONS" EntitySet="STAFFS_POSITIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SUBQUESTIONS_QUESTIONS" Association="Self.FK_SUBQUESTIONS_QUESTIONS">
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+      <End Role="SUBQUESTIONS" EntitySet="SUBQUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TESTDETAILS_QUESTIONS" Association="Self.FK_TESTDETAILS_QUESTIONS">
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+      <End Role="TEST_DETAILS" EntitySet="TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TESTDETAILS_TESTS" Association="Self.FK_TESTDETAILS_TESTS">
+      <End Role="TESTS" EntitySet="TESTS" />
+      <End Role="TEST_DETAILS" EntitySet="TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TESTS_BAGOFTESTS" Association="Self.FK_TESTS_BAGOFTESTS">
+      <End Role="BAGOFTESTS" EntitySet="BAGOFTESTS" />
+      <End Role="TESTS" EntitySet="TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TESTS_SUBJECTS" Association="Self.FK_TESTS_SUBJECTS">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="TESTS" EntitySet="TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VIOLATIONSCONTESTANTS_CONTESTTANT" Association="Self.FK_VIOLATIONSCONTESTANTS_CONTESTTANT">
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+      <End Role="VIOLATIONS_CONTESTANTS" EntitySet="VIOLATIONS_CONTESTANTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VIOLATIONSCONTESTANTS_VIOLATIONS" Association="Self.FK_VIOLATIONSCONTESTANTS_VIOLATIONS">
+      <End Role="VIOLATIONS" EntitySet="VIOLATIONS" />
+      <End Role="VIOLATIONS_CONTESTANTS" EntitySet="VIOLATIONS_CONTESTANTS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

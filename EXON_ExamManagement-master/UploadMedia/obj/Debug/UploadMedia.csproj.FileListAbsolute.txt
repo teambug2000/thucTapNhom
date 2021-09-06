@@ -1,0 +1,191 @@
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+D:\main12-3\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\UploadMedia.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Form1.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.Properties.Resources.resources
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.csproj.GenerateResource.Cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\UploadMedia\obj\Debug\UploadMedia.pdb

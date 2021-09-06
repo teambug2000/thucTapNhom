@@ -1,0 +1,157 @@
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.exe
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Data.dll
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Model.dll
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.exe
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.csprojResolveAssemblyReference.cache
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Core.SplashForm.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.AcceptQuestion.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.OriginalTest.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.Question.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.QuestionType.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.StructureTest.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.Task.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.Test.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.Topic.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmEditQuestion.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmLogin.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.FrmMain.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.TagResources.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Properties.Resources.resources
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.csproj.GenerateResource.Cache
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.exe.config
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.pdb
+E:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.dll
+E:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Common.dll
+E:\Tung\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.dll
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Common.pdb
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Data.pdb
+E:\Tung\EOS\EOS.Main\bin\Debug\EOS.Model.pdb
+E:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.xml
+E:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tung\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.xml
+E:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.pdb
+E:\Tung\EOS\EOS.Main\bin\Debug\App.config
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.exe.config
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.exe
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.pdb
+H:\Tung\EOS\EOS.Main\bin\Debug\App.config
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.exe
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Main.pdb
+H:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Common.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Data.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Model.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.dll
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Common.pdb
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Data.pdb
+H:\Tung\EOS\EOS.Main\bin\Debug\EOS.Model.pdb
+H:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.xml
+H:\Tung\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.xml
+H:\Tung\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.xml
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.csprojResolveAssemblyReference.cache
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Core.SplashForm.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucAcceptQuestion.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucOriginalTest.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestion.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestionType.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructureTest.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTask.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTest.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTopic.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmEditQuestion.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmLogin.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.FrmMain.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.TagResources.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Properties.Resources.resources
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.csproj.GenerateResource.Cache
+H:\Tung\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructDetail.resources
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Main.exe.config
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.exe
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.pdb
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.csprojResolveAssemblyReference.cache
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Core.SplashForm.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucAcceptQuestion.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucOriginalTest.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestion.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestionType.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructDetail.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructureTest.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTask.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTest.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTopic.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmEditQuestion.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmLogin.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.FrmMain.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.TagResources.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Properties.Resources.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.csproj.GenerateResource.Cache
+D:\Projects\EOS\EOS.Main\bin\Debug\App.config
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Main.exe
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Main.pdb
+D:\Projects\EOS\EOS.Main\bin\Debug\EntityFramework.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Common.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Data.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Model.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Common.pdb
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Data.pdb
+D:\Projects\EOS\EOS.Main\bin\Debug\EOS.Model.pdb
+D:\Projects\EOS\EOS.Main\bin\Debug\EntityFramework.xml
+D:\Projects\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTotalStructureDetail.resources
+D:\Projects\EOS\EOS.Main\obj\Debug\EOS.Main.Core.Controls.ucBackgroundMain.resources
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Main.exe.config
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.exe
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.pdb
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Core.Controls.ucBackgroundMain.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Core.SplashForm.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucAcceptQuestion.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucOriginalTest.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestion.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucQuestionType.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructDetail.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucStructureTest.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTask.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTest.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTopic.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Controls.ucTotalStructureDetail.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmEditQuestion.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Forms.FrmLogin.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.FrmMain.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.TagResources.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Properties.Resources.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.csproj.GenerateResource.Cache
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\App.config
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Main.exe
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Main.pdb
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\DocumentFormat.OpenXml.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Common.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Data.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Model.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\RtfWriter.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Common.pdb
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Data.pdb
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EOS.Model.pdb
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\DocumentFormat.OpenXml.xml
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Newtonsoft.Json.xml
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\FlashControlV71.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Microsoft.ReportViewer.Common.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\ShockwaveFlashObjects.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\stdole.dll
+H:\Projects\Exam Online\EOS\EOS.Main\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\EOS.Main.Module.Report.FrmStructTestReport.resources
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\RdlCompile.cache
+H:\Projects\Exam Online\EOS\EOS.Main\obj\Debug\RdlCompile.compiled

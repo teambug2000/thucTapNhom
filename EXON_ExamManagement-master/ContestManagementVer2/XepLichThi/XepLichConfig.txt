@@ -1,0 +1,6 @@
+﻿Hà Nội - 30;
+Vĩnh Phúc - 30;
+Hải Dương - 30;
+Kon Tum - 30;
+Hà Tinh - 31;
+Nam Định  - 31;

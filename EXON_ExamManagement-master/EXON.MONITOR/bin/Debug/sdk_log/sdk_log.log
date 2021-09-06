@@ -1,0 +1,18 @@
+Begin Time:2018-04-02 19:59:44.428
+[2018-04-02 19:59:44.428][P:14028/T:13804][dhnetsdk.cpp:118][Info][0] Leave CLIENT_InitEx.
+[2018-04-02 19:59:45.608][P:14028/T:13804][dhnetsdk.cpp:149][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=000001F62973BE5C, dwUser=0000000000000000].
+[2018-04-02 19:59:45.608][P:14028/T:13804][dhnetsdk.cpp:151][Info][0] Leave CLIENT_SetAutoReconnect.
+[2018-04-02 20:00:00.941][P:14028/T:13804][dhnetsdk.cpp:95][Info][0] Enter CLIENT_InitEx:[cbDisConnect=000001F62973B81C, dwUser=0000000000000000, lpInitParam=0000000000000000].
+[2018-04-02 20:00:00.941][P:14028/T:13804][Manager.cpp:10525][Info][0] -------------------Log file reset, new log file:./sdk_log/sdk_log.log-log number:2-log size:10240------------------
+Begin Time:2018-04-02 20:00:00.968
+[2018-04-02 20:00:00.968][P:14028/T:13804][dhnetsdk.cpp:118][Info][0] Leave CLIENT_InitEx.
+[2018-04-02 20:00:01.054][P:14028/T:13804][dhnetsdk.cpp:149][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=000001F62973E58C, dwUser=0000000000000000].
+[2018-04-02 20:00:01.054][P:14028/T:13804][dhnetsdk.cpp:151][Info][0] Leave CLIENT_SetAutoReconnect.
+Begin Time:2018-04-03 17:01:06.224
+[2018-04-03 17:01:06.225][P:10872/T:3704][dhnetsdk.cpp:118][Info][0] Leave CLIENT_InitEx.
+[2018-04-03 17:01:07.479][P:10872/T:3704][dhnetsdk.cpp:149][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=000002824F622E3C, dwUser=0000000000000000].
+[2018-04-03 17:01:07.479][P:10872/T:3704][dhnetsdk.cpp:151][Info][0] Leave CLIENT_SetAutoReconnect.
+Begin Time:2018-04-06 18:50:14.026
+[2018-04-06 18:50:14.027][P:12164/T:4880][dhnetsdk.cpp:118][Info][0] Leave CLIENT_InitEx.
+[2018-04-06 18:50:15.608][P:12164/T:4880][dhnetsdk.cpp:149][Info][0] Enter CLIENT_SetAutoReconnect:[cbAutoConnect=0000020B0B96C3DC, dwUser=0000000000000000].
+[2018-04-06 18:50:15.608][P:12164/T:4880][dhnetsdk.cpp:151][Info][0] Leave CLIENT_SetAutoReconnect.

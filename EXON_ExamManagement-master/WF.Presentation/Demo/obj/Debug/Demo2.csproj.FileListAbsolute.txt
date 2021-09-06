@@ -1,0 +1,8 @@
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\bin\Debug\Demo.exe
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\bin\Debug\Demo.pdb
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo2.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo.Form1.resources
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo2.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo.exe
+D:\1-Study\DuAn\Chuan\RM\RM\Demo\obj\Debug\Demo.pdb

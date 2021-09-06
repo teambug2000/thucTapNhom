@@ -1,0 +1,7 @@
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Release\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Release\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\bin\Release\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Release\EXON.Common.SplashScreenManager.resources
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Release\EXON.Common.csproj.GenerateResource.Cache
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Release\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.Common\obj\Release\EXON.Common.pdb

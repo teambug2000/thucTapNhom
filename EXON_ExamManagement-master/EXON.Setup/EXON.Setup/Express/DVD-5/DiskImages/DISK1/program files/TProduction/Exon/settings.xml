@@ -1,0 +1,7 @@
+<settings>
+  <GenerateTestNotSame>True</GenerateTestNotSame>
+  <AutoNumberOfTest>False</AutoNumberOfTest>
+  <NumberOfOriginalTest>3</NumberOfOriginalTest>
+  <GenerateFromOrignalTest>True</GenerateFromOrignalTest>
+  <ScaleNumOfTest>1.5</ScaleNumOfTest>
+</settings>

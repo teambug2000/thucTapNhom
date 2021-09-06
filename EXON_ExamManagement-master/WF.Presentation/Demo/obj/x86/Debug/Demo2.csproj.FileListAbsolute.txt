@@ -1,0 +1,11 @@
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\Debug\Demo.exe
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\Debug\Demo.pdb
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo2.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo.Form1.resources
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo.Properties.Resources.resources
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo2.csproj.GenerateResource.Cache
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo.exe
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\obj\x86\Debug\Demo.pdb
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\bin\Debug\Demo.exe
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\bin\Debug\Demo.pdb
+D:\1-Study\DuAn\ZKFinger SDK-v5.3.0.21-Lite\ZKFinger SDK-v5.3.0.21-Lite\Windows\C#\Demo\bin\Debug\libzkfpcsharp.dll

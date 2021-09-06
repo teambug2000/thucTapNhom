@@ -1,0 +1,13 @@
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EXON_EM.Data.dll.config
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EXON_EM.Data.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EXON_EM.Data.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EXON.Common.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\MetroFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EXON.Common.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\obj\Release\EXON_EM.Data.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\obj\Release\EXON_EM.Data.dll
+D:\main12-3\EXON_ExamManagement-master\EXON_EM.Data\obj\Release\EXON_EM.Data.pdb

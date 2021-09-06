@@ -1,0 +1,237 @@
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\1-Study\DuAn\Main30-11\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\1-Study\DuAn\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\main12-3\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojAssemblyReference.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DoAgentSetStatusComputer.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EXON.Model.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\BUS.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\DAO.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\bin\Debug\EXON.Model.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.csprojResolveAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.exe
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\DoAgentSetStatusComputer\obj\Debug\DoAgentSetStatusComputer.pdb

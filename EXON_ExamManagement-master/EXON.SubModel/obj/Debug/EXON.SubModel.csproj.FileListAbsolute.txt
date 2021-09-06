@@ -1,0 +1,248 @@
+H:\Projects\Exam Online\EXON\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\EXON\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\EXON\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\EXON\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\EXON-Clone\EXON\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\TEXON\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\TEXON\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\TEXON\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EntityFramework.dll
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EntityFramework.xml
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+H:\Projects\Exam Online\Release\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+H:\Projects\Exam Online\Release\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\Release\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\Release\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\Release\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\Release\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\Release\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\Release\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\Release\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Release\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\Release\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Release\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\Release\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\Release\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+H:\Projects\Exam Online\Release\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\Projects\Main17-12\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\main12-3\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\Projects\main12-3\EXON_ExamManagement-master - Copy (3)\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\2-4\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\1-Study\DuAn\danhgianangluc\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+C:\Users\admin\Downloads\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+E:\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL old\DGNL\Hoanthien-1-9-2018\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojAssemblyReference.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CoreCompileInputs.cache
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CopyComplete
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\NON_GROD\Working\EXON\EXON_Code_and_Bak\EXON_DGNL\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\Trung tam 25-6-2020\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CoreCompileInputs.cache
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CopyComplete
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\dgnl2\EXON_DGNL\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CopyComplete
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+C:\Users\MSI\Desktop\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojAssemblyReference.cache
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+P:\Project\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb

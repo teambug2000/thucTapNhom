@@ -1,0 +1,1853 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EXON_SYSTEM2Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="C__MigrationHistory">
+    <Key>
+      <PropertyRef Name="MigrationId" />
+      <PropertyRef Name="ContextKey" />
+    </Key>
+    <Property Name="MigrationId" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ContextKey" Type="String" MaxLength="300" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Model" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+    <Property Name="ProductVersion" Type="String" MaxLength="32" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ANSWER">
+    <Key>
+      <PropertyRef Name="AnswerID" />
+    </Key>
+    <Property Name="AnswerID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AnswerContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsCorrect" Type="Boolean" Nullable="false" />
+    <Property Name="SubQuestionID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SUBQUESTION" Relationship="Self.FK_dbo_ANSWERS_dbo_SUBQUESTIONS_SubQuestionID" FromRole="ANSWERS" ToRole="SUBQUESTIONS" />
+  </EntityType>
+  <EntityType Name="ANSWERSHEET_DETAILS">
+    <Key>
+      <PropertyRef Name="AnswerSheetDetailID" />
+    </Key>
+    <Property Name="AnswerSheetDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ChoosenAnswer" Type="Int32" Nullable="false" />
+    <Property Name="AnswerContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="LastTime" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="AnswerSheetID" Type="Int32" Nullable="false" />
+    <Property Name="TestDetailID" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Double" />
+    <Property Name="Comment" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="ANSWERSHEET" Relationship="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_ANSWERSHEETS_AnswerSheetID" FromRole="ANSWERSHEET_DETAILS" ToRole="ANSWERSHEETS" />
+    <NavigationProperty Name="TEST_DETAILS" Relationship="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_TEST_DETAILS_TestDetailID" FromRole="ANSWERSHEET_DETAILS" ToRole="TEST_DETAILS" />
+  </EntityType>
+  <EntityType Name="ANSWERSHEET">
+    <Key>
+      <PropertyRef Name="AnswerSheetID" />
+    </Key>
+    <Property Name="AnswerSheetID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestScores" Type="Double" />
+    <Property Name="EssayPoints" Type="Double" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestantTestID" Type="Int32" Nullable="false" />
+    <Property Name="StaffID" Type="Int32" />
+    <NavigationProperty Name="ANSWERSHEET_DETAILS" Relationship="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_ANSWERSHEETS_AnswerSheetID" FromRole="ANSWERSHEETS" ToRole="ANSWERSHEET_DETAILS" />
+    <NavigationProperty Name="CONTESTANTS_TESTS" Relationship="Self.FK_dbo_ANSWERSHEETS_dbo_CONTESTANTS_TESTS_ContestantTestID" FromRole="ANSWERSHEETS" ToRole="CONTESTANTS_TESTS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_ANSWERSHEETS_dbo_STAFFS_StaffID" FromRole="ANSWERSHEETS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="BAGOFTEST">
+    <Key>
+      <PropertyRef Name="BagOfTestID" />
+    </Key>
+    <Property Name="BagOfTestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberOfTest" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DivisionShiftID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="DIVISION_SHIFTS" Relationship="Self.FK_BAGOFTESTS_DIVISION_SHIFTS" FromRole="BAGOFTESTS" ToRole="DIVISION_SHIFTS" />
+    <NavigationProperty Name="TESTS" Relationship="Self.FK_dbo_TESTS_dbo_BAGOFTESTS_BagOfTestID" FromRole="BAGOFTESTS" ToRole="TESTS" />
+  </EntityType>
+  <EntityType Name="CONTEST_FEES">
+    <Key>
+      <PropertyRef Name="ContestFee" />
+    </Key>
+    <Property Name="ContestFee" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cost" Type="Double" />
+    <Property Name="Unit" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Year" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="FreeType" Type="Int32" />
+    <Property Name="ContestID" Type="Int32" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_CONTEST_FEES_CONTESTS" FromRole="CONTEST_FEES" ToRole="CONTESTS" />
+  </EntityType>
+  <EntityType Name="CONTEST_TYPES">
+    <Key>
+      <PropertyRef Name="ContestTypeID" />
+    </Key>
+    <Property Name="ContestTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContestTypeName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SCHEDULES" Relationship="Self.FK_dbo_SCHEDULES_dbo_CONTEST_TYPES_ContestTypeID" FromRole="CONTEST_TYPES" ToRole="SCHEDULES" />
+  </EntityType>
+  <EntityType Name="CONTESTANT_TYPES">
+    <Key>
+      <PropertyRef Name="ContestantTypeID" />
+    </Key>
+    <Property Name="ContestantTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContestantTypeName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="REGISTERS" Relationship="Self.FK_dbo_REGISTERS_dbo_CONTESTANT_TYPES_ContestantTypeID" FromRole="CONTESTANT_TYPES" ToRole="REGISTERS" />
+  </EntityType>
+  <EntityType Name="CONTESTANT">
+    <Key>
+      <PropertyRef Name="ContestantID" />
+    </Key>
+    <Property Name="ContestantID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContestantCode" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="RegisterID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="REGISTER" Relationship="Self.FK_dbo_CONTESTANTS_dbo_REGISTERS_RegisterID" FromRole="CONTESTANTS" ToRole="REGISTERS" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_CONTESTANTS_ContestantID" FromRole="CONTESTANTS" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="CONTESTANTS_SUBJECTS" Relationship="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_CONTESTANTS_ContestantID" FromRole="CONTESTANTS" ToRole="CONTESTANTS_SUBJECTS" />
+    <NavigationProperty Name="FINGERPRINTS" Relationship="Self.FK_dbo_FINGERPRINTS_dbo_CONTESTANTS_ContestantID" FromRole="CONTESTANTS" ToRole="FINGERPRINTS" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS_SHIFTS">
+    <Key>
+      <PropertyRef Name="ContestantShiftID" />
+    </Key>
+    <Property Name="ContestantShiftID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IsCheckFingerprint" Type="Boolean" />
+    <Property Name="TimeCheck" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" Nullable="false" />
+    <Property Name="ScheduleID" Type="Int32" Nullable="false" />
+    <Property Name="ContestantID" Type="Int32" Nullable="false" />
+    <Property Name="RoomDiagramID" Type="Int32" />
+    <NavigationProperty Name="CONTESTANT" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_CONTESTANTS_ContestantID" FromRole="CONTESTANTS_SHIFTS" ToRole="CONTESTANTS" />
+    <NavigationProperty Name="DIVISION_SHIFTS" Relationship="Self.FK_CONTESTANTS_SHIFTS_DIVISION_SHIFTS" FromRole="CONTESTANTS_SHIFTS" ToRole="DIVISION_SHIFTS" />
+    <NavigationProperty Name="CONTESTANTS_TESTS" Relationship="Self.FK_CONTESTANTS_TESTS_CONTESTANTS_SHIFTS" FromRole="CONTESTANTS_SHIFTS" ToRole="CONTESTANTS_TESTS" />
+    <NavigationProperty Name="ROOMDIAGRAM" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_ROOMDIAGRAMS_RoomDiagramID" FromRole="CONTESTANTS_SHIFTS" ToRole="ROOMDIAGRAMS" />
+    <NavigationProperty Name="SCHEDULE" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_SCHEDULES_ScheduleID" FromRole="CONTESTANTS_SHIFTS" ToRole="SCHEDULES" />
+    <NavigationProperty Name="VIOLATIONS_CONTESTANTS" Relationship="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_CONTESTANTS_SHIFTS_ContestantShiftID" FromRole="CONTESTANTS_SHIFTS" ToRole="VIOLATIONS_CONTESTANTS" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS_SUBJECTS">
+    <Key>
+      <PropertyRef Name="ContestantSubjectID" />
+    </Key>
+    <Property Name="ContestantSubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" />
+    <Property Name="ContestantID" Type="Int32" />
+    <NavigationProperty Name="CONTESTANT" Relationship="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_CONTESTANTS_ContestantID" FromRole="CONTESTANTS_SUBJECTS" ToRole="CONTESTANTS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_SUBJECTS_SubjectID" FromRole="CONTESTANTS_SUBJECTS" ToRole="SUBJECTS" />
+  </EntityType>
+  <EntityType Name="CONTESTANTS_TESTS">
+    <Key>
+      <PropertyRef Name="ContestantTestID" />
+    </Key>
+    <Property Name="ContestantTestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestantShiftID" Type="Int32" Nullable="false" />
+    <Property Name="TestID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ANSWERSHEETS" Relationship="Self.FK_dbo_ANSWERSHEETS_dbo_CONTESTANTS_TESTS_ContestantTestID" FromRole="CONTESTANTS_TESTS" ToRole="ANSWERSHEETS" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_CONTESTANTS_TESTS_CONTESTANTS_SHIFTS" FromRole="CONTESTANTS_TESTS" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="TEST" Relationship="Self.FK_dbo_CONTESTANTS_TESTS_dbo_TESTS_TestID" FromRole="CONTESTANTS_TESTS" ToRole="TESTS" />
+  </EntityType>
+  <EntityType Name="CONTEST">
+    <Key>
+      <PropertyRef Name="ContestID" />
+    </Key>
+    <Property Name="ContestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContestName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedDate" Type="Int32" Nullable="false" />
+    <Property Name="EndDate" Type="Int32" />
+    <Property Name="AcceptedDate" Type="Int32" />
+    <Property Name="BeginRegistration" Type="Int32" Nullable="false" />
+    <Property Name="EndRegistration" Type="Int32" Nullable="false" />
+    <Property Name="CreatedQuestionStartDate" Type="Int32" Nullable="false" />
+    <Property Name="CreatedQuestionEndDate" Type="Int32" Nullable="false" />
+    <Property Name="SchoolYear" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="CreatedStaffID" Type="Int32" />
+    <Property Name="AcceptedStaffID" Type="Int32" />
+    <Property Name="BeginDate" Type="Int32" />
+    <NavigationProperty Name="CONTEST_FEES" Relationship="Self.FK_CONTEST_FEES_CONTESTS" FromRole="CONTESTS" ToRole="CONTEST_FEES" />
+    <NavigationProperty Name="EXAMINATIONCOUNCIL_STAFFS" Relationship="Self.FK_Contest" FromRole="CONTESTS" ToRole="EXAMINATIONCOUNCIL_STAFFS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_CONTESTS_dbo_STAFFS_AcceptedStaffID" FromRole="CONTESTS" ToRole="STAFFS" />
+    <NavigationProperty Name="STAFF1" Relationship="Self.FK_dbo_CONTESTS_dbo_STAFFS_CreatedStaffID" FromRole="CONTESTS" ToRole="STAFFS" />
+    <NavigationProperty Name="LOCATIONS" Relationship="Self.FK_dbo_LOCATIONS_dbo_CONTESTS_ContestID" FromRole="CONTESTS" ToRole="LOCATIONS" />
+    <NavigationProperty Name="REGISTERS" Relationship="Self.FK_dbo_REGISTERS_dbo_CONTESTS_ContestID" FromRole="CONTESTS" ToRole="REGISTERS" />
+    <NavigationProperty Name="SCHEDULES" Relationship="Self.FK_dbo_SCHEDULES_dbo_CONTESTS_ContestID" FromRole="CONTESTS" ToRole="SCHEDULES" />
+    <NavigationProperty Name="SHIFTS" Relationship="Self.FK_dbo_SHIFTS_dbo_CONTESTS_ContestID" FromRole="CONTESTS" ToRole="SHIFTS" />
+    <NavigationProperty Name="ORIGINAL_TESTS" Relationship="Self.FK_ORIGINAL_TESTS_CONTESTS" FromRole="CONTESTS" ToRole="ORIGINAL_TESTS" />
+  </EntityType>
+  <EntityType Name="DEMO_FINGERPRINTS">
+    <Key>
+      <PropertyRef Name="FingerprintID" />
+    </Key>
+    <Property Name="FingerprintID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FingerprintImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="DEPARTMENT">
+    <Key>
+      <PropertyRef Name="DepartmentID" />
+    </Key>
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DepartmentCode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DepartmentName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Level" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentIDParent" Type="Int32" />
+    <NavigationProperty Name="DEPARTMENTS1" Relationship="Self.FK_dbo_DEPARTMENTS_dbo_DEPARTMENTS_DepartmentIDParent" FromRole="DEPARTMENTS" ToRole="DEPARTMENTS1" />
+    <NavigationProperty Name="DEPARTMENT1" Relationship="Self.FK_dbo_DEPARTMENTS_dbo_DEPARTMENTS_DepartmentIDParent" FromRole="DEPARTMENTS1" ToRole="DEPARTMENTS" />
+    <NavigationProperty Name="STAFFS" Relationship="Self.FK_dbo_STAFFS_dbo_DEPARTMENTS_DepartmentID" FromRole="DEPARTMENTS" ToRole="STAFFS" />
+    <NavigationProperty Name="SUBJECTS" Relationship="Self.FK_dbo_SUBJECTS_dbo_DEPARTMENTS_DepartmentID" FromRole="DEPARTMENTS" ToRole="SUBJECTS" />
+  </EntityType>
+  <EntityType Name="DIVISION_SHIFTS">
+    <Key>
+      <PropertyRef Name="DivisionShiftID" />
+    </Key>
+    <Property Name="DivisionShiftID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ShiftID" Type="Int32" Nullable="false" />
+    <Property Name="SupervisorID" Type="Int32" />
+    <Property Name="RoomTestID" Type="Int32" Nullable="false" />
+    <Property Name="Key" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BAGOFTESTS" Relationship="Self.FK_BAGOFTESTS_DIVISION_SHIFTS" FromRole="DIVISION_SHIFTS" ToRole="BAGOFTESTS" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_CONTESTANTS_SHIFTS_DIVISION_SHIFTS" FromRole="DIVISION_SHIFTS" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="ROOMTEST" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_ROOMTESTS_RoomTestID" FromRole="DIVISION_SHIFTS" ToRole="ROOMTESTS" />
+    <NavigationProperty Name="SHIFT" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_SHIFTS_ShiftID" FromRole="DIVISION_SHIFTS" ToRole="SHIFTS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_STAFFS_SupervisorID" FromRole="DIVISION_SHIFTS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="EXAMINATIONCOUNCIL_POSITIONS">
+    <Key>
+      <PropertyRef Name="ExaminationCouncil_PositionID" />
+    </Key>
+    <Property Name="ExaminationCouncil_PositionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ExaminationCouncil_PositionCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ExaminationCouncil_PositionName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Permission" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="EXAMINATIONCOUNCIL_STAFFS" Relationship="Self.FK_ExaminationCouncil_Position" FromRole="EXAMINATIONCOUNCIL_POSITIONS" ToRole="EXAMINATIONCOUNCIL_STAFFS" />
+  </EntityType>
+  <EntityType Name="EXAMINATIONCOUNCIL_STAFFS">
+    <Key>
+      <PropertyRef Name="ExaminationCouncil_StaffID" />
+    </Key>
+    <Property Name="ExaminationCouncil_StaffID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ContestID" Type="Int32" Nullable="false" />
+    <Property Name="StaffID" Type="Int32" Nullable="false" />
+    <Property Name="ExaminationCouncil_PositionID" Type="Int32" Nullable="false" />
+    <Property Name="LocationID" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_Contest" FromRole="EXAMINATIONCOUNCIL_STAFFS" ToRole="CONTESTS" />
+    <NavigationProperty Name="EXAMINATIONCOUNCIL_POSITIONS" Relationship="Self.FK_ExaminationCouncil_Position" FromRole="EXAMINATIONCOUNCIL_STAFFS" ToRole="EXAMINATIONCOUNCIL_POSITIONS" />
+    <NavigationProperty Name="LOCATION" Relationship="Self.FK_LocationID" FromRole="EXAMINATIONCOUNCIL_STAFFS" ToRole="LOCATIONS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_STAFFS" FromRole="EXAMINATIONCOUNCIL_STAFFS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="FINGERPRINT">
+    <Key>
+      <PropertyRef Name="FingerprintID" />
+    </Key>
+    <Property Name="FingerprintID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FingerprintImage" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="FilePath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="TimeSaveFingerprint" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestantID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTESTANT" Relationship="Self.FK_dbo_FINGERPRINTS_dbo_CONTESTANTS_ContestantID" FromRole="FINGERPRINTS" ToRole="CONTESTANTS" />
+  </EntityType>
+  <EntityType Name="LOCATION">
+    <Key>
+      <PropertyRef Name="LocationID" />
+    </Key>
+    <Property Name="LocationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="LocationName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_dbo_LOCATIONS_dbo_CONTESTS_ContestID" FromRole="LOCATIONS" ToRole="CONTESTS" />
+    <NavigationProperty Name="EXAMINATIONCOUNCIL_STAFFS" Relationship="Self.FK_LocationID" FromRole="LOCATIONS" ToRole="EXAMINATIONCOUNCIL_STAFFS" />
+    <NavigationProperty Name="ROOMTESTS" Relationship="Self.FK_dbo_ROOMTESTS_dbo_LOCATIONS_LocationID" FromRole="LOCATIONS" ToRole="ROOMTESTS" />
+  </EntityType>
+  <EntityType Name="MODULE">
+    <Key>
+      <PropertyRef Name="ModuleID" />
+    </Key>
+    <Property Name="ModuleID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ModuleCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SchoolYear" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_MODULES_dbo_SUBJECTS_SubjectID" FromRole="MODULES" ToRole="SUBJECTS" />
+  </EntityType>
+  <EntityType Name="ORIGINAL_TEST_DETAILS">
+    <Key>
+      <PropertyRef Name="OriginalTestDetailID" />
+    </Key>
+    <Property Name="OriginalTestDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberIndex" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="OriginalTestID" Type="Int32" Nullable="false" />
+    <Property Name="QuestionID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ORIGINAL_TESTS" Relationship="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_ORIGINAL_TESTS_OriginalTestID" FromRole="ORIGINAL_TEST_DETAILS" ToRole="ORIGINAL_TESTS" />
+    <NavigationProperty Name="QUESTION" Relationship="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_QUESTIONS_QuestionID" FromRole="ORIGINAL_TEST_DETAILS" ToRole="QUESTIONS" />
+  </EntityType>
+  <EntityType Name="ORIGINAL_TESTS">
+    <Key>
+      <PropertyRef Name="OriginalTestID" />
+    </Key>
+    <Property Name="OriginalTestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreateDate" Type="Int32" Nullable="false" />
+    <Property Name="AcceptDate" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_ORIGINAL_TESTS_CONTESTS" FromRole="ORIGINAL_TESTS" ToRole="CONTESTS" />
+    <NavigationProperty Name="ORIGINAL_TEST_DETAILS" Relationship="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_ORIGINAL_TESTS_OriginalTestID" FromRole="ORIGINAL_TESTS" ToRole="ORIGINAL_TEST_DETAILS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_ORIGINAL_TESTS_dbo_SUBJECTS_SubjectID" FromRole="ORIGINAL_TESTS" ToRole="SUBJECTS" />
+  </EntityType>
+  <EntityType Name="POSITION">
+    <Key>
+      <PropertyRef Name="PositionID" />
+    </Key>
+    <Property Name="PositionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PositionCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PositionName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Permission" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="STAFFS_POSITIONS" Relationship="Self.FK_STAFFS_POSITIONS_POSITIONS" FromRole="POSITIONS" ToRole="STAFFS_POSITIONS" />
+  </EntityType>
+  <EntityType Name="QUESTION_TYPES">
+    <Key>
+      <PropertyRef Name="QuestionTypeID" />
+    </Key>
+    <Property Name="QuestionTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionTypeName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="IsSingleChoice" Type="Boolean" Nullable="false" />
+    <Property Name="IsParagraph" Type="Boolean" Nullable="false" />
+    <Property Name="IsQuestionContent" Type="Boolean" Nullable="false" />
+    <Property Name="NumberSubQuestion" Type="Int32" Nullable="false" />
+    <Property Name="NumberAnswer" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="IsQuiz" Type="Boolean" Nullable="false" />
+    <Property Name="Type" Type="Int32" />
+    <NavigationProperty Name="QUESTIONS" Relationship="Self.FK_dbo_QUESTIONS_dbo_QUESTION_TYPES_QuestionTypeID" FromRole="QUESTION_TYPES" ToRole="QUESTIONS" />
+  </EntityType>
+  <EntityType Name="QUESTION">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="QuestionFormat" Type="Int32" Nullable="false" />
+    <Property Name="Level" Type="Int32" Nullable="false" />
+    <Property Name="CreatedDate" Type="Int32" Nullable="false" />
+    <Property Name="AcceptedDate" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="QuestionTypeID" Type="Int32" Nullable="false" />
+    <Property Name="TopicID" Type="Int32" Nullable="false" />
+    <Property Name="CreatedStaffID" Type="Int32" Nullable="false" />
+    <Property Name="AcceptedStaffID" Type="Int32" />
+    <Property Name="Audio" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="ORIGINAL_TEST_DETAILS" Relationship="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_QUESTIONS_QuestionID" FromRole="QUESTIONS" ToRole="ORIGINAL_TEST_DETAILS" />
+    <NavigationProperty Name="QUESTION_TYPES" Relationship="Self.FK_dbo_QUESTIONS_dbo_QUESTION_TYPES_QuestionTypeID" FromRole="QUESTIONS" ToRole="QUESTION_TYPES" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_QUESTIONS_dbo_STAFFS_AcceptedStaffID" FromRole="QUESTIONS" ToRole="STAFFS" />
+    <NavigationProperty Name="STAFF1" Relationship="Self.FK_dbo_QUESTIONS_dbo_STAFFS_CreatedStaffID" FromRole="QUESTIONS" ToRole="STAFFS" />
+    <NavigationProperty Name="TOPIC" Relationship="Self.FK_dbo_QUESTIONS_dbo_TOPICS_TopicID" FromRole="QUESTIONS" ToRole="TOPICS" />
+    <NavigationProperty Name="SUBQUESTIONS" Relationship="Self.FK_dbo_SUBQUESTIONS_dbo_QUESTIONS_QuestionID" FromRole="QUESTIONS" ToRole="SUBQUESTIONS" />
+    <NavigationProperty Name="TEST_DETAILS" Relationship="Self.FK_dbo_TEST_DETAILS_dbo_QUESTIONS_QuestionID" FromRole="QUESTIONS" ToRole="TEST_DETAILS" />
+  </EntityType>
+  <EntityType Name="RECEIPT">
+    <Key>
+      <PropertyRef Name="ReceiptID" />
+    </Key>
+    <Property Name="ReceiptID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Cost" Type="Double" />
+    <Property Name="ReceivedDate" Type="Int32" Nullable="false" />
+    <Property Name="RegisteredDate" Type="Int32" Nullable="false" />
+    <Property Name="ReceiptType" Type="Boolean" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="StaffID" Type="Int32" Nullable="false" />
+    <Property Name="RegisterID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="REGISTER" Relationship="Self.FK_dbo_RECEIPTS_dbo_REGISTERS_RegisterID" FromRole="RECEIPTS" ToRole="REGISTERS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_RECEIPTS_dbo_STAFFS_StaffID" FromRole="RECEIPTS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="REGISTER">
+    <Key>
+      <PropertyRef Name="RegisterID" />
+    </Key>
+    <Property Name="RegisterID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StudentCode" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DOB" Type="Int32" />
+    <Property Name="Ethnic" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="PlaceOfBirth" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="HighSchool" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Sex" Type="Int32" />
+    <Property Name="IdentityCardNumber" Type="String" MaxLength="12" FixedLength="false" Unicode="false" />
+    <Property Name="Unit" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CurrentAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="RegisteredDate" Type="Int32" Nullable="false" />
+    <Property Name="RegisteredType" Type="Int32" />
+    <Property Name="TrainingSystem" Type="Int32" />
+    <Property Name="LevelsOfTraining" Type="Int32" />
+    <Property Name="Image" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestID" Type="Int32" Nullable="false" />
+    <Property Name="ContestantTypeID" Type="Int32" />
+    <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="TelephoneNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CONTESTANT_TYPES" Relationship="Self.FK_dbo_REGISTERS_dbo_CONTESTANT_TYPES_ContestantTypeID" FromRole="REGISTERS" ToRole="CONTESTANT_TYPES" />
+    <NavigationProperty Name="CONTESTANTS" Relationship="Self.FK_dbo_CONTESTANTS_dbo_REGISTERS_RegisterID" FromRole="REGISTERS" ToRole="CONTESTANTS" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_dbo_REGISTERS_dbo_CONTESTS_ContestID" FromRole="REGISTERS" ToRole="CONTESTS" />
+    <NavigationProperty Name="RECEIPTS" Relationship="Self.FK_dbo_RECEIPTS_dbo_REGISTERS_RegisterID" FromRole="REGISTERS" ToRole="RECEIPTS" />
+    <NavigationProperty Name="REGISTERS_SUBJECTS" Relationship="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_REGISTERS_RegisterID" FromRole="REGISTERS" ToRole="REGISTERS_SUBJECTS" />
+  </EntityType>
+  <EntityType Name="REGISTERS_SUBJECTS">
+    <Key>
+      <PropertyRef Name="RegisterSubjectID" />
+    </Key>
+    <Property Name="RegisterSubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="RegisterID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="REGISTER" Relationship="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_REGISTERS_RegisterID" FromRole="REGISTERS_SUBJECTS" ToRole="REGISTERS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_SUBJECTS_SubjectID" FromRole="REGISTERS_SUBJECTS" ToRole="SUBJECTS" />
+  </EntityType>
+  <EntityType Name="REMINDER">
+    <Key>
+      <PropertyRef Name="ReminderID" />
+    </Key>
+    <Property Name="ReminderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ReminderContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="StartDate" Type="Int32" />
+    <Property Name="EndDate" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="SendStaffID" Type="Int32" Nullable="false" />
+    <Property Name="ReceiveStaffID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_REMINDERS_dbo_STAFFS_ReceiveStaffID" FromRole="REMINDERS" ToRole="STAFFS" />
+    <NavigationProperty Name="STAFF1" Relationship="Self.FK_dbo_REMINDERS_dbo_STAFFS_SendStaffID" FromRole="REMINDERS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="ROOMDIAGRAM">
+    <Key>
+      <PropertyRef Name="RoomDiagramID" />
+    </Key>
+    <Property Name="RoomDiagramID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ComputerCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="ComputerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="RoomTestID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_ROOMDIAGRAMS_RoomDiagramID" FromRole="ROOMDIAGRAMS" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="ROOMTEST" Relationship="Self.FK_dbo_ROOMDIAGRAMS_dbo_ROOMTESTS_RoomTestID" FromRole="ROOMDIAGRAMS" ToRole="ROOMTESTS" />
+  </EntityType>
+  <EntityType Name="ROOMTEST">
+    <Key>
+      <PropertyRef Name="RoomTestID" />
+    </Key>
+    <Property Name="RoomTestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoomTestName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="MaxSeatMount" Type="Int32" Nullable="false" />
+    <Property Name="MaxSupervisor" Type="Int32" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="LocationID" Type="Int32" />
+    <NavigationProperty Name="DIVISION_SHIFTS" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_ROOMTESTS_RoomTestID" FromRole="ROOMTESTS" ToRole="DIVISION_SHIFTS" />
+    <NavigationProperty Name="LOCATION" Relationship="Self.FK_dbo_ROOMTESTS_dbo_LOCATIONS_LocationID" FromRole="ROOMTESTS" ToRole="LOCATIONS" />
+    <NavigationProperty Name="ROOMDIAGRAMS" Relationship="Self.FK_dbo_ROOMDIAGRAMS_dbo_ROOMTESTS_RoomTestID" FromRole="ROOMTESTS" ToRole="ROOMDIAGRAMS" />
+  </EntityType>
+  <EntityType Name="SCHEDULE">
+    <Key>
+      <PropertyRef Name="ScheduleID" />
+    </Key>
+    <Property Name="ScheduleID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TimeOfTest" Type="Int32" Nullable="false" />
+    <Property Name="TimeToSubmit" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <Property Name="Fee" Type="Int32" Nullable="false" />
+    <Property Name="Unit" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="ContestTypeID" Type="Int32" />
+    <NavigationProperty Name="CONTEST_TYPES" Relationship="Self.FK_dbo_SCHEDULES_dbo_CONTEST_TYPES_ContestTypeID" FromRole="SCHEDULES" ToRole="CONTEST_TYPES" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_SCHEDULES_ScheduleID" FromRole="SCHEDULES" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_dbo_SCHEDULES_dbo_CONTESTS_ContestID" FromRole="SCHEDULES" ToRole="CONTESTS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_SCHEDULES_dbo_SUBJECTS_SubjectID" FromRole="SCHEDULES" ToRole="SUBJECTS" />
+    <NavigationProperty Name="STRUCTURES" Relationship="Self.FK_dbo_STRUCTURES_dbo_SCHEDULES_ScheduleID" FromRole="SCHEDULES" ToRole="STRUCTURES" />
+  </EntityType>
+  <EntityType Name="SHIFT">
+    <Key>
+      <PropertyRef Name="ShiftID" />
+    </Key>
+    <Property Name="ShiftID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ShiftName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ShiftDate" Type="Int32" Nullable="false" />
+    <Property Name="StartTime" Type="Int32" Nullable="false" />
+    <Property Name="EndTime" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ContestID" Type="Int32" />
+    <NavigationProperty Name="CONTEST" Relationship="Self.FK_dbo_SHIFTS_dbo_CONTESTS_ContestID" FromRole="SHIFTS" ToRole="CONTESTS" />
+    <NavigationProperty Name="DIVISION_SHIFTS" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_SHIFTS_ShiftID" FromRole="SHIFTS" ToRole="DIVISION_SHIFTS" />
+  </EntityType>
+  <EntityType Name="STAFF">
+    <Key>
+      <PropertyRef Name="StaffID" />
+    </Key>
+    <Property Name="StaffID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DOB" Type="Int32" Nullable="false" />
+    <Property Name="Sex" Type="Int32" Nullable="false" />
+    <Property Name="IdentityCardNumber" Type="String" MaxLength="12" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AcademicRank" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Degree" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="CurrentAddress" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="MailAddress" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ANSWERSHEETS" Relationship="Self.FK_dbo_ANSWERSHEETS_dbo_STAFFS_StaffID" FromRole="STAFFS" ToRole="ANSWERSHEETS" />
+    <NavigationProperty Name="CONTESTS" Relationship="Self.FK_dbo_CONTESTS_dbo_STAFFS_AcceptedStaffID" FromRole="STAFFS" ToRole="CONTESTS" />
+    <NavigationProperty Name="CONTESTS1" Relationship="Self.FK_dbo_CONTESTS_dbo_STAFFS_CreatedStaffID" FromRole="STAFFS" ToRole="CONTESTS" />
+    <NavigationProperty Name="DEPARTMENT" Relationship="Self.FK_dbo_STAFFS_dbo_DEPARTMENTS_DepartmentID" FromRole="STAFFS" ToRole="DEPARTMENTS" />
+    <NavigationProperty Name="DIVISION_SHIFTS" Relationship="Self.FK_dbo_DIVISION_SHIFTS_dbo_STAFFS_SupervisorID" FromRole="STAFFS" ToRole="DIVISION_SHIFTS" />
+    <NavigationProperty Name="EXAMINATIONCOUNCIL_STAFFS" Relationship="Self.FK_STAFFS" FromRole="STAFFS" ToRole="EXAMINATIONCOUNCIL_STAFFS" />
+    <NavigationProperty Name="QUESTIONS" Relationship="Self.FK_dbo_QUESTIONS_dbo_STAFFS_AcceptedStaffID" FromRole="STAFFS" ToRole="QUESTIONS" />
+    <NavigationProperty Name="QUESTIONS1" Relationship="Self.FK_dbo_QUESTIONS_dbo_STAFFS_CreatedStaffID" FromRole="STAFFS" ToRole="QUESTIONS" />
+    <NavigationProperty Name="RECEIPTS" Relationship="Self.FK_dbo_RECEIPTS_dbo_STAFFS_StaffID" FromRole="STAFFS" ToRole="RECEIPTS" />
+    <NavigationProperty Name="REMINDERS" Relationship="Self.FK_dbo_REMINDERS_dbo_STAFFS_ReceiveStaffID" FromRole="STAFFS" ToRole="REMINDERS" />
+    <NavigationProperty Name="REMINDERS1" Relationship="Self.FK_dbo_REMINDERS_dbo_STAFFS_SendStaffID" FromRole="STAFFS" ToRole="REMINDERS" />
+    <NavigationProperty Name="STRUCTURES" Relationship="Self.FK_dbo_STRUCTURES_dbo_STAFFS_CreatedStaffID" FromRole="STAFFS" ToRole="STRUCTURES" />
+    <NavigationProperty Name="TOPICS_STAFFS" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_AssignedStaffID" FromRole="STAFFS" ToRole="TOPICS_STAFFS" />
+    <NavigationProperty Name="TOPICS_STAFFS1" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_TaskmasterStaffID" FromRole="STAFFS" ToRole="TOPICS_STAFFS" />
+    <NavigationProperty Name="STAFFS_POSITIONS" Relationship="Self.FK_STAFFS_POSITIONS_STAFFS" FromRole="STAFFS" ToRole="STAFFS_POSITIONS" />
+  </EntityType>
+  <EntityType Name="STAFFS_POSITIONS">
+    <Key>
+      <PropertyRef Name="StaffPositionID" />
+    </Key>
+    <Property Name="StaffPositionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="StaffID" Type="Int32" Nullable="false" />
+    <Property Name="PositionID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="POSITION" Relationship="Self.FK_STAFFS_POSITIONS_POSITIONS" FromRole="STAFFS_POSITIONS" ToRole="POSITIONS" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_STAFFS_POSITIONS_STAFFS" FromRole="STAFFS_POSITIONS" ToRole="STAFFS" />
+  </EntityType>
+  <EntityType Name="STRUCTURE_DETAILS">
+    <Key>
+      <PropertyRef Name="StructureDetailID" />
+    </Key>
+    <Property Name="StructureDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NumberQuestions" Type="Int32" Nullable="false" />
+    <Property Name="Level" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Double" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="StructureID" Type="Int32" Nullable="false" />
+    <Property Name="TopicID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="STRUCTURE" Relationship="Self.FK_dbo_STRUCTURE_DETAILS_dbo_STRUCTURES_StructureID" FromRole="STRUCTURE_DETAILS" ToRole="STRUCTURES" />
+    <NavigationProperty Name="TOPIC" Relationship="Self.FK_dbo_STRUCTURE_DETAILS_dbo_TOPICS_TopicID" FromRole="STRUCTURE_DETAILS" ToRole="TOPICS" />
+  </EntityType>
+  <EntityType Name="STRUCTURE">
+    <Key>
+      <PropertyRef Name="StructureID" />
+    </Key>
+    <Property Name="StructureID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CreatedDate" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="ScheduleID" Type="Int32" Nullable="false" />
+    <Property Name="CreatedStaffID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="SCHEDULE" Relationship="Self.FK_dbo_STRUCTURES_dbo_SCHEDULES_ScheduleID" FromRole="STRUCTURES" ToRole="SCHEDULES" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_STRUCTURES_dbo_STAFFS_CreatedStaffID" FromRole="STRUCTURES" ToRole="STAFFS" />
+    <NavigationProperty Name="STRUCTURE_DETAILS" Relationship="Self.FK_dbo_STRUCTURE_DETAILS_dbo_STRUCTURES_StructureID" FromRole="STRUCTURES" ToRole="STRUCTURE_DETAILS" />
+  </EntityType>
+  <EntityType Name="SUBJECT">
+    <Key>
+      <PropertyRef Name="SubjectID" />
+    </Key>
+    <Property Name="SubjectID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubjectCode" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SubjectName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTESTANTS_SUBJECTS" Relationship="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="CONTESTANTS_SUBJECTS" />
+    <NavigationProperty Name="DEPARTMENT" Relationship="Self.FK_dbo_SUBJECTS_dbo_DEPARTMENTS_DepartmentID" FromRole="SUBJECTS" ToRole="DEPARTMENTS" />
+    <NavigationProperty Name="MODULES" Relationship="Self.FK_dbo_MODULES_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="MODULES" />
+    <NavigationProperty Name="ORIGINAL_TESTS" Relationship="Self.FK_dbo_ORIGINAL_TESTS_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="ORIGINAL_TESTS" />
+    <NavigationProperty Name="REGISTERS_SUBJECTS" Relationship="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="REGISTERS_SUBJECTS" />
+    <NavigationProperty Name="SCHEDULES" Relationship="Self.FK_dbo_SCHEDULES_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="SCHEDULES" />
+    <NavigationProperty Name="TESTS" Relationship="Self.FK_dbo_TESTS_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="TESTS" />
+    <NavigationProperty Name="TOPICS" Relationship="Self.FK_dbo_TOPICS_dbo_SUBJECTS_SubjectID" FromRole="SUBJECTS" ToRole="TOPICS" />
+  </EntityType>
+  <EntityType Name="SUBQUESTION">
+    <Key>
+      <PropertyRef Name="SubQuestionID" />
+    </Key>
+    <Property Name="SubQuestionID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SubQuestionContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="QuestionID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ANSWERS" Relationship="Self.FK_dbo_ANSWERS_dbo_SUBQUESTIONS_SubQuestionID" FromRole="SUBQUESTIONS" ToRole="ANSWERS" />
+    <NavigationProperty Name="QUESTION" Relationship="Self.FK_dbo_SUBQUESTIONS_dbo_QUESTIONS_QuestionID" FromRole="SUBQUESTIONS" ToRole="QUESTIONS" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TEST_DETAILS">
+    <Key>
+      <PropertyRef Name="TestDetailID" />
+    </Key>
+    <Property Name="TestDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RandomAnswer" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="NumberIndex" Type="Int32" Nullable="false" />
+    <Property Name="Score" Type="Double" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="TestID" Type="Int32" Nullable="false" />
+    <Property Name="QuestionID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ANSWERSHEET_DETAILS" Relationship="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_TEST_DETAILS_TestDetailID" FromRole="TEST_DETAILS" ToRole="ANSWERSHEET_DETAILS" />
+    <NavigationProperty Name="QUESTION" Relationship="Self.FK_dbo_TEST_DETAILS_dbo_QUESTIONS_QuestionID" FromRole="TEST_DETAILS" ToRole="QUESTIONS" />
+    <NavigationProperty Name="TEST" Relationship="Self.FK_dbo_TEST_DETAILS_dbo_TESTS_TestID" FromRole="TEST_DETAILS" ToRole="TESTS" />
+  </EntityType>
+  <EntityType Name="TEST">
+    <Key>
+      <PropertyRef Name="TestID" />
+    </Key>
+    <Property Name="TestID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TestDate" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="BagOfTestID" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="BAGOFTEST" Relationship="Self.FK_dbo_TESTS_dbo_BAGOFTESTS_BagOfTestID" FromRole="TESTS" ToRole="BAGOFTESTS" />
+    <NavigationProperty Name="CONTESTANTS_TESTS" Relationship="Self.FK_dbo_CONTESTANTS_TESTS_dbo_TESTS_TestID" FromRole="TESTS" ToRole="CONTESTANTS_TESTS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_TESTS_dbo_SUBJECTS_SubjectID" FromRole="TESTS" ToRole="SUBJECTS" />
+    <NavigationProperty Name="TEST_DETAILS" Relationship="Self.FK_dbo_TEST_DETAILS_dbo_TESTS_TestID" FromRole="TESTS" ToRole="TEST_DETAILS" />
+  </EntityType>
+  <EntityType Name="TOPIC">
+    <Key>
+      <PropertyRef Name="TopicID" />
+    </Key>
+    <Property Name="TopicID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TopicName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="SubjectID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="QUESTIONS" Relationship="Self.FK_dbo_QUESTIONS_dbo_TOPICS_TopicID" FromRole="TOPICS" ToRole="QUESTIONS" />
+    <NavigationProperty Name="STRUCTURE_DETAILS" Relationship="Self.FK_dbo_STRUCTURE_DETAILS_dbo_TOPICS_TopicID" FromRole="TOPICS" ToRole="STRUCTURE_DETAILS" />
+    <NavigationProperty Name="SUBJECT" Relationship="Self.FK_dbo_TOPICS_dbo_SUBJECTS_SubjectID" FromRole="TOPICS" ToRole="SUBJECTS" />
+    <NavigationProperty Name="TOPICS_STAFFS" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_TOPICS_TopicID" FromRole="TOPICS" ToRole="TOPICS_STAFFS" />
+  </EntityType>
+  <EntityType Name="TOPICS_STAFFS">
+    <Key>
+      <PropertyRef Name="TopicStaffID" />
+    </Key>
+    <Property Name="TopicStaffID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BeginDate" Type="Int32" Nullable="false" />
+    <Property Name="EndDate" Type="Int32" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="TopicID" Type="Int32" Nullable="false" />
+    <Property Name="TaskmasterStaffID" Type="Int32" Nullable="false" />
+    <Property Name="AssignedStaffID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="STAFF" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_AssignedStaffID" FromRole="TOPICS_STAFFS" ToRole="STAFFS" />
+    <NavigationProperty Name="STAFF1" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_TaskmasterStaffID" FromRole="TOPICS_STAFFS" ToRole="STAFFS" />
+    <NavigationProperty Name="TOPIC" Relationship="Self.FK_dbo_TOPICS_STAFFS_dbo_TOPICS_TopicID" FromRole="TOPICS_STAFFS" ToRole="TOPICS" />
+  </EntityType>
+  <EntityType Name="VIOLATION">
+    <Key>
+      <PropertyRef Name="ViolationID" />
+    </Key>
+    <Property Name="ViolationID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ViolationName" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Level" Type="Int32" Nullable="false" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="VIOLATIONS_CONTESTANTS" Relationship="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_VIOLATIONS_ViolationID" FromRole="VIOLATIONS" ToRole="VIOLATIONS_CONTESTANTS" />
+  </EntityType>
+  <EntityType Name="VIOLATIONS_CONTESTANTS">
+    <Key>
+      <PropertyRef Name="ViolationDetailID" />
+    </Key>
+    <Property Name="ViolationDetailID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Status" Type="Int32" Nullable="false" />
+    <Property Name="TimeSave" Type="Int32" />
+    <Property Name="ViolationID" Type="Int32" Nullable="false" />
+    <Property Name="ContestantShiftID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="CONTESTANTS_SHIFTS" Relationship="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_CONTESTANTS_SHIFTS_ContestantShiftID" FromRole="VIOLATIONS_CONTESTANTS" ToRole="CONTESTANTS_SHIFTS" />
+    <NavigationProperty Name="VIOLATION" Relationship="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_VIOLATIONS_ViolationID" FromRole="VIOLATIONS_CONTESTANTS" ToRole="VIOLATIONS" />
+  </EntityType>
+  <Association Name="FK_dbo_ANSWERS_dbo_SUBQUESTIONS_SubQuestionID">
+    <End Role="SUBQUESTIONS" Type="Self.SUBQUESTION" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="ANSWERS" Type="Self.ANSWER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBQUESTIONS">
+        <PropertyRef Name="SubQuestionID" />
+      </Principal>
+      <Dependent Role="ANSWERS">
+        <PropertyRef Name="SubQuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ANSWERSHEET_DETAILS_dbo_ANSWERSHEETS_AnswerSheetID">
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEET" Multiplicity="1" />
+    <End Role="ANSWERSHEET_DETAILS" Type="Self.ANSWERSHEET_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ANSWERSHEETS">
+        <PropertyRef Name="AnswerSheetID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEET_DETAILS">
+        <PropertyRef Name="AnswerSheetID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ANSWERSHEET_DETAILS_dbo_TEST_DETAILS_TestDetailID">
+    <End Role="TEST_DETAILS" Type="Self.TEST_DETAILS" Multiplicity="1" />
+    <End Role="ANSWERSHEET_DETAILS" Type="Self.ANSWERSHEET_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEST_DETAILS">
+        <PropertyRef Name="TestDetailID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEET_DETAILS">
+        <PropertyRef Name="TestDetailID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ANSWERSHEETS_dbo_CONTESTANTS_TESTS_ContestantTestID">
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="1" />
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="ContestantTestID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEETS">
+        <PropertyRef Name="ContestantTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ANSWERSHEETS_dbo_STAFFS_StaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="0..1" />
+    <End Role="ANSWERSHEETS" Type="Self.ANSWERSHEET" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="ANSWERSHEETS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BAGOFTESTS_DIVISION_SHIFTS">
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="1" />
+    <End Role="BAGOFTESTS" Type="Self.BAGOFTEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIVISION_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Principal>
+      <Dependent Role="BAGOFTESTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TESTS_dbo_BAGOFTESTS_BagOfTestID">
+    <End Role="BAGOFTESTS" Type="Self.BAGOFTEST" Multiplicity="1" />
+    <End Role="TESTS" Type="Self.TEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BAGOFTESTS">
+        <PropertyRef Name="BagOfTestID" />
+      </Principal>
+      <Dependent Role="TESTS">
+        <PropertyRef Name="BagOfTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTEST_FEES_CONTESTS">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="0..1" />
+    <End Role="CONTEST_FEES" Type="Self.CONTEST_FEES" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="CONTEST_FEES">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SCHEDULES_dbo_CONTEST_TYPES_ContestTypeID">
+    <End Role="CONTEST_TYPES" Type="Self.CONTEST_TYPES" Multiplicity="0..1" />
+    <End Role="SCHEDULES" Type="Self.SCHEDULE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTEST_TYPES">
+        <PropertyRef Name="ContestTypeID" />
+      </Principal>
+      <Dependent Role="SCHEDULES">
+        <PropertyRef Name="ContestTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REGISTERS_dbo_CONTESTANT_TYPES_ContestantTypeID">
+    <End Role="CONTESTANT_TYPES" Type="Self.CONTESTANT_TYPES" Multiplicity="0..1" />
+    <End Role="REGISTERS" Type="Self.REGISTER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANT_TYPES">
+        <PropertyRef Name="ContestantTypeID" />
+      </Principal>
+      <Dependent Role="REGISTERS">
+        <PropertyRef Name="ContestantTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_dbo_REGISTERS_RegisterID">
+    <End Role="REGISTERS" Type="Self.REGISTER" Multiplicity="1" />
+    <End Role="CONTESTANTS" Type="Self.CONTESTANT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REGISTERS">
+        <PropertyRef Name="RegisterID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS">
+        <PropertyRef Name="RegisterID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_CONTESTANTS_ContestantID">
+    <End Role="CONTESTANTS" Type="Self.CONTESTANT" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS">
+        <PropertyRef Name="ContestantID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_SUBJECTS_dbo_CONTESTANTS_ContestantID">
+    <End Role="CONTESTANTS" Type="Self.CONTESTANT" Multiplicity="0..1" />
+    <End Role="CONTESTANTS_SUBJECTS" Type="Self.CONTESTANTS_SUBJECTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS">
+        <PropertyRef Name="ContestantID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SUBJECTS">
+        <PropertyRef Name="ContestantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_FINGERPRINTS_dbo_CONTESTANTS_ContestantID">
+    <End Role="CONTESTANTS" Type="Self.CONTESTANT" Multiplicity="1" />
+    <End Role="FINGERPRINTS" Type="Self.FINGERPRINT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS">
+        <PropertyRef Name="ContestantID" />
+      </Principal>
+      <Dependent Role="FINGERPRINTS">
+        <PropertyRef Name="ContestantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTS_SHIFTS_DIVISION_SHIFTS">
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DIVISION_SHIFTS">
+        <PropertyRef Name="DivisionShiftID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CONTESTANTS_TESTS_CONTESTANTS_SHIFTS">
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="1" />
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_ROOMDIAGRAMS_RoomDiagramID">
+    <End Role="ROOMDIAGRAMS" Type="Self.ROOMDIAGRAM" Multiplicity="0..1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMDIAGRAMS">
+        <PropertyRef Name="RoomDiagramID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="RoomDiagramID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_SCHEDULES_ScheduleID">
+    <End Role="SCHEDULES" Type="Self.SCHEDULE" Multiplicity="1" />
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SCHEDULES">
+        <PropertyRef Name="ScheduleID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ScheduleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_VIOLATIONS_CONTESTANTS_dbo_CONTESTANTS_SHIFTS_ContestantShiftID">
+    <End Role="CONTESTANTS_SHIFTS" Type="Self.CONTESTANTS_SHIFTS" Multiplicity="1" />
+    <End Role="VIOLATIONS_CONTESTANTS" Type="Self.VIOLATIONS_CONTESTANTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTANTS_SHIFTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Principal>
+      <Dependent Role="VIOLATIONS_CONTESTANTS">
+        <PropertyRef Name="ContestantShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_SUBJECTS_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="0..1" />
+    <End Role="CONTESTANTS_SUBJECTS" Type="Self.CONTESTANTS_SUBJECTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTANTS_TESTS_dbo_TESTS_TestID">
+    <End Role="TESTS" Type="Self.TEST" Multiplicity="1" />
+    <End Role="CONTESTANTS_TESTS" Type="Self.CONTESTANTS_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TESTS">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="CONTESTANTS_TESTS">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Contest">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTS_dbo_STAFFS_AcceptedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="0..1" />
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="CONTESTS">
+        <PropertyRef Name="AcceptedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_CONTESTS_dbo_STAFFS_CreatedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="0..1" />
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="CONTESTS">
+        <PropertyRef Name="CreatedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_LOCATIONS_dbo_CONTESTS_ContestID">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="1" />
+    <End Role="LOCATIONS" Type="Self.LOCATION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="LOCATIONS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REGISTERS_dbo_CONTESTS_ContestID">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="1" />
+    <End Role="REGISTERS" Type="Self.REGISTER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="REGISTERS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SCHEDULES_dbo_CONTESTS_ContestID">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="1" />
+    <End Role="SCHEDULES" Type="Self.SCHEDULE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="SCHEDULES">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SHIFTS_dbo_CONTESTS_ContestID">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="0..1" />
+    <End Role="SHIFTS" Type="Self.SHIFT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="SHIFTS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ORIGINAL_TESTS_CONTESTS">
+    <End Role="CONTESTS" Type="Self.CONTEST" Multiplicity="1" />
+    <End Role="ORIGINAL_TESTS" Type="Self.ORIGINAL_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CONTESTS">
+        <PropertyRef Name="ContestID" />
+      </Principal>
+      <Dependent Role="ORIGINAL_TESTS">
+        <PropertyRef Name="ContestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_DEPARTMENTS_dbo_DEPARTMENTS_DepartmentIDParent">
+    <End Role="DEPARTMENTS" Type="Self.DEPARTMENT" Multiplicity="0..1" />
+    <End Role="DEPARTMENTS1" Type="Self.DEPARTMENT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DEPARTMENTS">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="DEPARTMENTS1">
+        <PropertyRef Name="DepartmentIDParent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_STAFFS_dbo_DEPARTMENTS_DepartmentID">
+    <End Role="DEPARTMENTS" Type="Self.DEPARTMENT" Multiplicity="1" />
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DEPARTMENTS">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="STAFFS">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SUBJECTS_dbo_DEPARTMENTS_DepartmentID">
+    <End Role="DEPARTMENTS" Type="Self.DEPARTMENT" Multiplicity="1" />
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DEPARTMENTS">
+        <PropertyRef Name="DepartmentID" />
+      </Principal>
+      <Dependent Role="SUBJECTS">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_DIVISION_SHIFTS_dbo_ROOMTESTS_RoomTestID">
+    <End Role="ROOMTESTS" Type="Self.ROOMTEST" Multiplicity="1" />
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMTESTS">
+        <PropertyRef Name="RoomTestID" />
+      </Principal>
+      <Dependent Role="DIVISION_SHIFTS">
+        <PropertyRef Name="RoomTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_DIVISION_SHIFTS_dbo_SHIFTS_ShiftID">
+    <End Role="SHIFTS" Type="Self.SHIFT" Multiplicity="1" />
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SHIFTS">
+        <PropertyRef Name="ShiftID" />
+      </Principal>
+      <Dependent Role="DIVISION_SHIFTS">
+        <PropertyRef Name="ShiftID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_DIVISION_SHIFTS_dbo_STAFFS_SupervisorID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="0..1" />
+    <End Role="DIVISION_SHIFTS" Type="Self.DIVISION_SHIFTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="DIVISION_SHIFTS">
+        <PropertyRef Name="SupervisorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExaminationCouncil_Position">
+    <End Role="EXAMINATIONCOUNCIL_POSITIONS" Type="Self.EXAMINATIONCOUNCIL_POSITIONS" Multiplicity="1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EXAMINATIONCOUNCIL_POSITIONS">
+        <PropertyRef Name="ExaminationCouncil_PositionID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="ExaminationCouncil_PositionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LocationID">
+    <End Role="LOCATIONS" Type="Self.LOCATION" Multiplicity="1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOCATIONS">
+        <PropertyRef Name="LocationID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="LocationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="EXAMINATIONCOUNCIL_STAFFS" Type="Self.EXAMINATIONCOUNCIL_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="EXAMINATIONCOUNCIL_STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ROOMTESTS_dbo_LOCATIONS_LocationID">
+    <End Role="LOCATIONS" Type="Self.LOCATION" Multiplicity="0..1" />
+    <End Role="ROOMTESTS" Type="Self.ROOMTEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOCATIONS">
+        <PropertyRef Name="LocationID" />
+      </Principal>
+      <Dependent Role="ROOMTESTS">
+        <PropertyRef Name="LocationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_MODULES_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="MODULES" Type="Self.MODULE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="MODULES">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ORIGINAL_TEST_DETAILS_dbo_ORIGINAL_TESTS_OriginalTestID">
+    <End Role="ORIGINAL_TESTS" Type="Self.ORIGINAL_TESTS" Multiplicity="1" />
+    <End Role="ORIGINAL_TEST_DETAILS" Type="Self.ORIGINAL_TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ORIGINAL_TESTS">
+        <PropertyRef Name="OriginalTestID" />
+      </Principal>
+      <Dependent Role="ORIGINAL_TEST_DETAILS">
+        <PropertyRef Name="OriginalTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ORIGINAL_TEST_DETAILS_dbo_QUESTIONS_QuestionID">
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="1" />
+    <End Role="ORIGINAL_TEST_DETAILS" Type="Self.ORIGINAL_TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="ORIGINAL_TEST_DETAILS">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ORIGINAL_TESTS_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="ORIGINAL_TESTS" Type="Self.ORIGINAL_TESTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="ORIGINAL_TESTS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS_POSITIONS_POSITIONS">
+    <End Role="POSITIONS" Type="Self.POSITION" Multiplicity="1" />
+    <End Role="STAFFS_POSITIONS" Type="Self.STAFFS_POSITIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="POSITIONS">
+        <PropertyRef Name="PositionID" />
+      </Principal>
+      <Dependent Role="STAFFS_POSITIONS">
+        <PropertyRef Name="PositionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_QUESTIONS_dbo_QUESTION_TYPES_QuestionTypeID">
+    <End Role="QUESTION_TYPES" Type="Self.QUESTION_TYPES" Multiplicity="1" />
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTION_TYPES">
+        <PropertyRef Name="QuestionTypeID" />
+      </Principal>
+      <Dependent Role="QUESTIONS">
+        <PropertyRef Name="QuestionTypeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_QUESTIONS_dbo_STAFFS_AcceptedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="0..1" />
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="QUESTIONS">
+        <PropertyRef Name="AcceptedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_QUESTIONS_dbo_STAFFS_CreatedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="QUESTIONS">
+        <PropertyRef Name="CreatedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_QUESTIONS_dbo_TOPICS_TopicID">
+    <End Role="TOPICS" Type="Self.TOPIC" Multiplicity="1" />
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TOPICS">
+        <PropertyRef Name="TopicID" />
+      </Principal>
+      <Dependent Role="QUESTIONS">
+        <PropertyRef Name="TopicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SUBQUESTIONS_dbo_QUESTIONS_QuestionID">
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="SUBQUESTIONS" Type="Self.SUBQUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="SUBQUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TEST_DETAILS_dbo_QUESTIONS_QuestionID">
+    <End Role="QUESTIONS" Type="Self.QUESTION" Multiplicity="1" />
+    <End Role="TEST_DETAILS" Type="Self.TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTIONS">
+        <PropertyRef Name="QuestionID" />
+      </Principal>
+      <Dependent Role="TEST_DETAILS">
+        <PropertyRef Name="QuestionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_RECEIPTS_dbo_REGISTERS_RegisterID">
+    <End Role="REGISTERS" Type="Self.REGISTER" Multiplicity="1" />
+    <End Role="RECEIPTS" Type="Self.RECEIPT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REGISTERS">
+        <PropertyRef Name="RegisterID" />
+      </Principal>
+      <Dependent Role="RECEIPTS">
+        <PropertyRef Name="RegisterID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_RECEIPTS_dbo_STAFFS_StaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="RECEIPTS" Type="Self.RECEIPT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="RECEIPTS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REGISTERS_SUBJECTS_dbo_REGISTERS_RegisterID">
+    <End Role="REGISTERS" Type="Self.REGISTER" Multiplicity="1" />
+    <End Role="REGISTERS_SUBJECTS" Type="Self.REGISTERS_SUBJECTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REGISTERS">
+        <PropertyRef Name="RegisterID" />
+      </Principal>
+      <Dependent Role="REGISTERS_SUBJECTS">
+        <PropertyRef Name="RegisterID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REGISTERS_SUBJECTS_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="REGISTERS_SUBJECTS" Type="Self.REGISTERS_SUBJECTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="REGISTERS_SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REMINDERS_dbo_STAFFS_ReceiveStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="REMINDERS" Type="Self.REMINDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="REMINDERS">
+        <PropertyRef Name="ReceiveStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_REMINDERS_dbo_STAFFS_SendStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="REMINDERS" Type="Self.REMINDER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="REMINDERS">
+        <PropertyRef Name="SendStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_ROOMDIAGRAMS_dbo_ROOMTESTS_RoomTestID">
+    <End Role="ROOMTESTS" Type="Self.ROOMTEST" Multiplicity="1" />
+    <End Role="ROOMDIAGRAMS" Type="Self.ROOMDIAGRAM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ROOMTESTS">
+        <PropertyRef Name="RoomTestID" />
+      </Principal>
+      <Dependent Role="ROOMDIAGRAMS">
+        <PropertyRef Name="RoomTestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_SCHEDULES_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="SCHEDULES" Type="Self.SCHEDULE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="SCHEDULES">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_STRUCTURES_dbo_SCHEDULES_ScheduleID">
+    <End Role="SCHEDULES" Type="Self.SCHEDULE" Multiplicity="1" />
+    <End Role="STRUCTURES" Type="Self.STRUCTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SCHEDULES">
+        <PropertyRef Name="ScheduleID" />
+      </Principal>
+      <Dependent Role="STRUCTURES">
+        <PropertyRef Name="ScheduleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_STRUCTURES_dbo_STAFFS_CreatedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="STRUCTURES" Type="Self.STRUCTURE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="STRUCTURES">
+        <PropertyRef Name="CreatedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TOPICS_STAFFS_dbo_STAFFS_AssignedStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="TOPICS_STAFFS" Type="Self.TOPICS_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="TOPICS_STAFFS">
+        <PropertyRef Name="AssignedStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TOPICS_STAFFS_dbo_STAFFS_TaskmasterStaffID">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="TOPICS_STAFFS" Type="Self.TOPICS_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="TOPICS_STAFFS">
+        <PropertyRef Name="TaskmasterStaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_STAFFS_POSITIONS_STAFFS">
+    <End Role="STAFFS" Type="Self.STAFF" Multiplicity="1" />
+    <End Role="STAFFS_POSITIONS" Type="Self.STAFFS_POSITIONS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STAFFS">
+        <PropertyRef Name="StaffID" />
+      </Principal>
+      <Dependent Role="STAFFS_POSITIONS">
+        <PropertyRef Name="StaffID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_STRUCTURE_DETAILS_dbo_STRUCTURES_StructureID">
+    <End Role="STRUCTURES" Type="Self.STRUCTURE" Multiplicity="1" />
+    <End Role="STRUCTURE_DETAILS" Type="Self.STRUCTURE_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="STRUCTURES">
+        <PropertyRef Name="StructureID" />
+      </Principal>
+      <Dependent Role="STRUCTURE_DETAILS">
+        <PropertyRef Name="StructureID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_STRUCTURE_DETAILS_dbo_TOPICS_TopicID">
+    <End Role="TOPICS" Type="Self.TOPIC" Multiplicity="1" />
+    <End Role="STRUCTURE_DETAILS" Type="Self.STRUCTURE_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TOPICS">
+        <PropertyRef Name="TopicID" />
+      </Principal>
+      <Dependent Role="STRUCTURE_DETAILS">
+        <PropertyRef Name="TopicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TESTS_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="TESTS" Type="Self.TEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="TESTS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TOPICS_dbo_SUBJECTS_SubjectID">
+    <End Role="SUBJECTS" Type="Self.SUBJECT" Multiplicity="1" />
+    <End Role="TOPICS" Type="Self.TOPIC" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SUBJECTS">
+        <PropertyRef Name="SubjectID" />
+      </Principal>
+      <Dependent Role="TOPICS">
+        <PropertyRef Name="SubjectID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TEST_DETAILS_dbo_TESTS_TestID">
+    <End Role="TESTS" Type="Self.TEST" Multiplicity="1" />
+    <End Role="TEST_DETAILS" Type="Self.TEST_DETAILS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TESTS">
+        <PropertyRef Name="TestID" />
+      </Principal>
+      <Dependent Role="TEST_DETAILS">
+        <PropertyRef Name="TestID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_TOPICS_STAFFS_dbo_TOPICS_TopicID">
+    <End Role="TOPICS" Type="Self.TOPIC" Multiplicity="1" />
+    <End Role="TOPICS_STAFFS" Type="Self.TOPICS_STAFFS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TOPICS">
+        <PropertyRef Name="TopicID" />
+      </Principal>
+      <Dependent Role="TOPICS_STAFFS">
+        <PropertyRef Name="TopicID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_dbo_VIOLATIONS_CONTESTANTS_dbo_VIOLATIONS_ViolationID">
+    <End Role="VIOLATIONS" Type="Self.VIOLATION" Multiplicity="1" />
+    <End Role="VIOLATIONS_CONTESTANTS" Type="Self.VIOLATIONS_CONTESTANTS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VIOLATIONS">
+        <PropertyRef Name="ViolationID" />
+      </Principal>
+      <Dependent Role="VIOLATIONS_CONTESTANTS">
+        <PropertyRef Name="ViolationID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EXON_SYSTEM2Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="C__MigrationHistory" EntityType="Self.C__MigrationHistory" />
+    <EntitySet Name="ANSWERS" EntityType="Self.ANSWER" />
+    <EntitySet Name="ANSWERSHEET_DETAILS" EntityType="Self.ANSWERSHEET_DETAILS" />
+    <EntitySet Name="ANSWERSHEETS" EntityType="Self.ANSWERSHEET" />
+    <EntitySet Name="BAGOFTESTS" EntityType="Self.BAGOFTEST" />
+    <EntitySet Name="CONTEST_FEES" EntityType="Self.CONTEST_FEES" />
+    <EntitySet Name="CONTEST_TYPES" EntityType="Self.CONTEST_TYPES" />
+    <EntitySet Name="CONTESTANT_TYPES" EntityType="Self.CONTESTANT_TYPES" />
+    <EntitySet Name="CONTESTANTS" EntityType="Self.CONTESTANT" />
+    <EntitySet Name="CONTESTANTS_SHIFTS" EntityType="Self.CONTESTANTS_SHIFTS" />
+    <EntitySet Name="CONTESTANTS_SUBJECTS" EntityType="Self.CONTESTANTS_SUBJECTS" />
+    <EntitySet Name="CONTESTANTS_TESTS" EntityType="Self.CONTESTANTS_TESTS" />
+    <EntitySet Name="CONTESTS" EntityType="Self.CONTEST" />
+    <EntitySet Name="DEMO_FINGERPRINTS" EntityType="Self.DEMO_FINGERPRINTS" />
+    <EntitySet Name="DEPARTMENTS" EntityType="Self.DEPARTMENT" />
+    <EntitySet Name="DIVISION_SHIFTS" EntityType="Self.DIVISION_SHIFTS" />
+    <EntitySet Name="EXAMINATIONCOUNCIL_POSITIONS" EntityType="Self.EXAMINATIONCOUNCIL_POSITIONS" />
+    <EntitySet Name="EXAMINATIONCOUNCIL_STAFFS" EntityType="Self.EXAMINATIONCOUNCIL_STAFFS" />
+    <EntitySet Name="FINGERPRINTS" EntityType="Self.FINGERPRINT" />
+    <EntitySet Name="LOCATIONS" EntityType="Self.LOCATION" />
+    <EntitySet Name="MODULES" EntityType="Self.MODULE" />
+    <EntitySet Name="ORIGINAL_TEST_DETAILS" EntityType="Self.ORIGINAL_TEST_DETAILS" />
+    <EntitySet Name="ORIGINAL_TESTS" EntityType="Self.ORIGINAL_TESTS" />
+    <EntitySet Name="POSITIONS" EntityType="Self.POSITION" />
+    <EntitySet Name="QUESTION_TYPES" EntityType="Self.QUESTION_TYPES" />
+    <EntitySet Name="QUESTIONS" EntityType="Self.QUESTION" />
+    <EntitySet Name="RECEIPTS" EntityType="Self.RECEIPT" />
+    <EntitySet Name="REGISTERS" EntityType="Self.REGISTER" />
+    <EntitySet Name="REGISTERS_SUBJECTS" EntityType="Self.REGISTERS_SUBJECTS" />
+    <EntitySet Name="REMINDERS" EntityType="Self.REMINDER" />
+    <EntitySet Name="ROOMDIAGRAMS" EntityType="Self.ROOMDIAGRAM" />
+    <EntitySet Name="ROOMTESTS" EntityType="Self.ROOMTEST" />
+    <EntitySet Name="SCHEDULES" EntityType="Self.SCHEDULE" />
+    <EntitySet Name="SHIFTS" EntityType="Self.SHIFT" />
+    <EntitySet Name="STAFFS" EntityType="Self.STAFF" />
+    <EntitySet Name="STAFFS_POSITIONS" EntityType="Self.STAFFS_POSITIONS" />
+    <EntitySet Name="STRUCTURE_DETAILS" EntityType="Self.STRUCTURE_DETAILS" />
+    <EntitySet Name="STRUCTURES" EntityType="Self.STRUCTURE" />
+    <EntitySet Name="SUBJECTS" EntityType="Self.SUBJECT" />
+    <EntitySet Name="SUBQUESTIONS" EntityType="Self.SUBQUESTION" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="TEST_DETAILS" EntityType="Self.TEST_DETAILS" />
+    <EntitySet Name="TESTS" EntityType="Self.TEST" />
+    <EntitySet Name="TOPICS" EntityType="Self.TOPIC" />
+    <EntitySet Name="TOPICS_STAFFS" EntityType="Self.TOPICS_STAFFS" />
+    <EntitySet Name="VIOLATIONS" EntityType="Self.VIOLATION" />
+    <EntitySet Name="VIOLATIONS_CONTESTANTS" EntityType="Self.VIOLATIONS_CONTESTANTS" />
+    <AssociationSet Name="FK_dbo_ANSWERS_dbo_SUBQUESTIONS_SubQuestionID" Association="Self.FK_dbo_ANSWERS_dbo_SUBQUESTIONS_SubQuestionID">
+      <End Role="SUBQUESTIONS" EntitySet="SUBQUESTIONS" />
+      <End Role="ANSWERS" EntitySet="ANSWERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ANSWERSHEET_DETAILS_dbo_ANSWERSHEETS_AnswerSheetID" Association="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_ANSWERSHEETS_AnswerSheetID">
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+      <End Role="ANSWERSHEET_DETAILS" EntitySet="ANSWERSHEET_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ANSWERSHEET_DETAILS_dbo_TEST_DETAILS_TestDetailID" Association="Self.FK_dbo_ANSWERSHEET_DETAILS_dbo_TEST_DETAILS_TestDetailID">
+      <End Role="TEST_DETAILS" EntitySet="TEST_DETAILS" />
+      <End Role="ANSWERSHEET_DETAILS" EntitySet="ANSWERSHEET_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ANSWERSHEETS_dbo_CONTESTANTS_TESTS_ContestantTestID" Association="Self.FK_dbo_ANSWERSHEETS_dbo_CONTESTANTS_TESTS_ContestantTestID">
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ANSWERSHEETS_dbo_STAFFS_StaffID" Association="Self.FK_dbo_ANSWERSHEETS_dbo_STAFFS_StaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="ANSWERSHEETS" EntitySet="ANSWERSHEETS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BAGOFTESTS_DIVISION_SHIFTS" Association="Self.FK_BAGOFTESTS_DIVISION_SHIFTS">
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+      <End Role="BAGOFTESTS" EntitySet="BAGOFTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TESTS_dbo_BAGOFTESTS_BagOfTestID" Association="Self.FK_dbo_TESTS_dbo_BAGOFTESTS_BagOfTestID">
+      <End Role="BAGOFTESTS" EntitySet="BAGOFTESTS" />
+      <End Role="TESTS" EntitySet="TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTEST_FEES_CONTESTS" Association="Self.FK_CONTEST_FEES_CONTESTS">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="CONTEST_FEES" EntitySet="CONTEST_FEES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SCHEDULES_dbo_CONTEST_TYPES_ContestTypeID" Association="Self.FK_dbo_SCHEDULES_dbo_CONTEST_TYPES_ContestTypeID">
+      <End Role="CONTEST_TYPES" EntitySet="CONTEST_TYPES" />
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REGISTERS_dbo_CONTESTANT_TYPES_ContestantTypeID" Association="Self.FK_dbo_REGISTERS_dbo_CONTESTANT_TYPES_ContestantTypeID">
+      <End Role="CONTESTANT_TYPES" EntitySet="CONTESTANT_TYPES" />
+      <End Role="REGISTERS" EntitySet="REGISTERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_dbo_REGISTERS_RegisterID" Association="Self.FK_dbo_CONTESTANTS_dbo_REGISTERS_RegisterID">
+      <End Role="REGISTERS" EntitySet="REGISTERS" />
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_CONTESTANTS_ContestantID" Association="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_CONTESTANTS_ContestantID">
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_SUBJECTS_dbo_CONTESTANTS_ContestantID" Association="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_CONTESTANTS_ContestantID">
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+      <End Role="CONTESTANTS_SUBJECTS" EntitySet="CONTESTANTS_SUBJECTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_FINGERPRINTS_dbo_CONTESTANTS_ContestantID" Association="Self.FK_dbo_FINGERPRINTS_dbo_CONTESTANTS_ContestantID">
+      <End Role="CONTESTANTS" EntitySet="CONTESTANTS" />
+      <End Role="FINGERPRINTS" EntitySet="FINGERPRINTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTS_SHIFTS_DIVISION_SHIFTS" Association="Self.FK_CONTESTANTS_SHIFTS_DIVISION_SHIFTS">
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CONTESTANTS_TESTS_CONTESTANTS_SHIFTS" Association="Self.FK_CONTESTANTS_TESTS_CONTESTANTS_SHIFTS">
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_ROOMDIAGRAMS_RoomDiagramID" Association="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_ROOMDIAGRAMS_RoomDiagramID">
+      <End Role="ROOMDIAGRAMS" EntitySet="ROOMDIAGRAMS" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_SHIFTS_dbo_SCHEDULES_ScheduleID" Association="Self.FK_dbo_CONTESTANTS_SHIFTS_dbo_SCHEDULES_ScheduleID">
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_VIOLATIONS_CONTESTANTS_dbo_CONTESTANTS_SHIFTS_ContestantShiftID" Association="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_CONTESTANTS_SHIFTS_ContestantShiftID">
+      <End Role="CONTESTANTS_SHIFTS" EntitySet="CONTESTANTS_SHIFTS" />
+      <End Role="VIOLATIONS_CONTESTANTS" EntitySet="VIOLATIONS_CONTESTANTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_SUBJECTS_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_CONTESTANTS_SUBJECTS_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="CONTESTANTS_SUBJECTS" EntitySet="CONTESTANTS_SUBJECTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTANTS_TESTS_dbo_TESTS_TestID" Association="Self.FK_dbo_CONTESTANTS_TESTS_dbo_TESTS_TestID">
+      <End Role="TESTS" EntitySet="TESTS" />
+      <End Role="CONTESTANTS_TESTS" EntitySet="CONTESTANTS_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Contest" Association="Self.FK_Contest">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTS_dbo_STAFFS_AcceptedStaffID" Association="Self.FK_dbo_CONTESTS_dbo_STAFFS_AcceptedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_CONTESTS_dbo_STAFFS_CreatedStaffID" Association="Self.FK_dbo_CONTESTS_dbo_STAFFS_CreatedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_LOCATIONS_dbo_CONTESTS_ContestID" Association="Self.FK_dbo_LOCATIONS_dbo_CONTESTS_ContestID">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REGISTERS_dbo_CONTESTS_ContestID" Association="Self.FK_dbo_REGISTERS_dbo_CONTESTS_ContestID">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="REGISTERS" EntitySet="REGISTERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SCHEDULES_dbo_CONTESTS_ContestID" Association="Self.FK_dbo_SCHEDULES_dbo_CONTESTS_ContestID">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SHIFTS_dbo_CONTESTS_ContestID" Association="Self.FK_dbo_SHIFTS_dbo_CONTESTS_ContestID">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="SHIFTS" EntitySet="SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ORIGINAL_TESTS_CONTESTS" Association="Self.FK_ORIGINAL_TESTS_CONTESTS">
+      <End Role="CONTESTS" EntitySet="CONTESTS" />
+      <End Role="ORIGINAL_TESTS" EntitySet="ORIGINAL_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_DEPARTMENTS_dbo_DEPARTMENTS_DepartmentIDParent" Association="Self.FK_dbo_DEPARTMENTS_dbo_DEPARTMENTS_DepartmentIDParent">
+      <End Role="DEPARTMENTS" EntitySet="DEPARTMENTS" />
+      <End Role="DEPARTMENTS1" EntitySet="DEPARTMENTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_STAFFS_dbo_DEPARTMENTS_DepartmentID" Association="Self.FK_dbo_STAFFS_dbo_DEPARTMENTS_DepartmentID">
+      <End Role="DEPARTMENTS" EntitySet="DEPARTMENTS" />
+      <End Role="STAFFS" EntitySet="STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SUBJECTS_dbo_DEPARTMENTS_DepartmentID" Association="Self.FK_dbo_SUBJECTS_dbo_DEPARTMENTS_DepartmentID">
+      <End Role="DEPARTMENTS" EntitySet="DEPARTMENTS" />
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_DIVISION_SHIFTS_dbo_ROOMTESTS_RoomTestID" Association="Self.FK_dbo_DIVISION_SHIFTS_dbo_ROOMTESTS_RoomTestID">
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_DIVISION_SHIFTS_dbo_SHIFTS_ShiftID" Association="Self.FK_dbo_DIVISION_SHIFTS_dbo_SHIFTS_ShiftID">
+      <End Role="SHIFTS" EntitySet="SHIFTS" />
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_DIVISION_SHIFTS_dbo_STAFFS_SupervisorID" Association="Self.FK_dbo_DIVISION_SHIFTS_dbo_STAFFS_SupervisorID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="DIVISION_SHIFTS" EntitySet="DIVISION_SHIFTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExaminationCouncil_Position" Association="Self.FK_ExaminationCouncil_Position">
+      <End Role="EXAMINATIONCOUNCIL_POSITIONS" EntitySet="EXAMINATIONCOUNCIL_POSITIONS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LocationID" Association="Self.FK_LocationID">
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS" Association="Self.FK_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="EXAMINATIONCOUNCIL_STAFFS" EntitySet="EXAMINATIONCOUNCIL_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ROOMTESTS_dbo_LOCATIONS_LocationID" Association="Self.FK_dbo_ROOMTESTS_dbo_LOCATIONS_LocationID">
+      <End Role="LOCATIONS" EntitySet="LOCATIONS" />
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_MODULES_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_MODULES_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="MODULES" EntitySet="MODULES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ORIGINAL_TEST_DETAILS_dbo_ORIGINAL_TESTS_OriginalTestID" Association="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_ORIGINAL_TESTS_OriginalTestID">
+      <End Role="ORIGINAL_TESTS" EntitySet="ORIGINAL_TESTS" />
+      <End Role="ORIGINAL_TEST_DETAILS" EntitySet="ORIGINAL_TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ORIGINAL_TEST_DETAILS_dbo_QUESTIONS_QuestionID" Association="Self.FK_dbo_ORIGINAL_TEST_DETAILS_dbo_QUESTIONS_QuestionID">
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+      <End Role="ORIGINAL_TEST_DETAILS" EntitySet="ORIGINAL_TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ORIGINAL_TESTS_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_ORIGINAL_TESTS_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="ORIGINAL_TESTS" EntitySet="ORIGINAL_TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS_POSITIONS_POSITIONS" Association="Self.FK_STAFFS_POSITIONS_POSITIONS">
+      <End Role="POSITIONS" EntitySet="POSITIONS" />
+      <End Role="STAFFS_POSITIONS" EntitySet="STAFFS_POSITIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_QUESTIONS_dbo_QUESTION_TYPES_QuestionTypeID" Association="Self.FK_dbo_QUESTIONS_dbo_QUESTION_TYPES_QuestionTypeID">
+      <End Role="QUESTION_TYPES" EntitySet="QUESTION_TYPES" />
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_QUESTIONS_dbo_STAFFS_AcceptedStaffID" Association="Self.FK_dbo_QUESTIONS_dbo_STAFFS_AcceptedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_QUESTIONS_dbo_STAFFS_CreatedStaffID" Association="Self.FK_dbo_QUESTIONS_dbo_STAFFS_CreatedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_QUESTIONS_dbo_TOPICS_TopicID" Association="Self.FK_dbo_QUESTIONS_dbo_TOPICS_TopicID">
+      <End Role="TOPICS" EntitySet="TOPICS" />
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SUBQUESTIONS_dbo_QUESTIONS_QuestionID" Association="Self.FK_dbo_SUBQUESTIONS_dbo_QUESTIONS_QuestionID">
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+      <End Role="SUBQUESTIONS" EntitySet="SUBQUESTIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TEST_DETAILS_dbo_QUESTIONS_QuestionID" Association="Self.FK_dbo_TEST_DETAILS_dbo_QUESTIONS_QuestionID">
+      <End Role="QUESTIONS" EntitySet="QUESTIONS" />
+      <End Role="TEST_DETAILS" EntitySet="TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_RECEIPTS_dbo_REGISTERS_RegisterID" Association="Self.FK_dbo_RECEIPTS_dbo_REGISTERS_RegisterID">
+      <End Role="REGISTERS" EntitySet="REGISTERS" />
+      <End Role="RECEIPTS" EntitySet="RECEIPTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_RECEIPTS_dbo_STAFFS_StaffID" Association="Self.FK_dbo_RECEIPTS_dbo_STAFFS_StaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="RECEIPTS" EntitySet="RECEIPTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REGISTERS_SUBJECTS_dbo_REGISTERS_RegisterID" Association="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_REGISTERS_RegisterID">
+      <End Role="REGISTERS" EntitySet="REGISTERS" />
+      <End Role="REGISTERS_SUBJECTS" EntitySet="REGISTERS_SUBJECTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REGISTERS_SUBJECTS_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_REGISTERS_SUBJECTS_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="REGISTERS_SUBJECTS" EntitySet="REGISTERS_SUBJECTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REMINDERS_dbo_STAFFS_ReceiveStaffID" Association="Self.FK_dbo_REMINDERS_dbo_STAFFS_ReceiveStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="REMINDERS" EntitySet="REMINDERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_REMINDERS_dbo_STAFFS_SendStaffID" Association="Self.FK_dbo_REMINDERS_dbo_STAFFS_SendStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="REMINDERS" EntitySet="REMINDERS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_ROOMDIAGRAMS_dbo_ROOMTESTS_RoomTestID" Association="Self.FK_dbo_ROOMDIAGRAMS_dbo_ROOMTESTS_RoomTestID">
+      <End Role="ROOMTESTS" EntitySet="ROOMTESTS" />
+      <End Role="ROOMDIAGRAMS" EntitySet="ROOMDIAGRAMS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_SCHEDULES_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_SCHEDULES_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_STRUCTURES_dbo_SCHEDULES_ScheduleID" Association="Self.FK_dbo_STRUCTURES_dbo_SCHEDULES_ScheduleID">
+      <End Role="SCHEDULES" EntitySet="SCHEDULES" />
+      <End Role="STRUCTURES" EntitySet="STRUCTURES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_STRUCTURES_dbo_STAFFS_CreatedStaffID" Association="Self.FK_dbo_STRUCTURES_dbo_STAFFS_CreatedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="STRUCTURES" EntitySet="STRUCTURES" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TOPICS_STAFFS_dbo_STAFFS_AssignedStaffID" Association="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_AssignedStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="TOPICS_STAFFS" EntitySet="TOPICS_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TOPICS_STAFFS_dbo_STAFFS_TaskmasterStaffID" Association="Self.FK_dbo_TOPICS_STAFFS_dbo_STAFFS_TaskmasterStaffID">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="TOPICS_STAFFS" EntitySet="TOPICS_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_STAFFS_POSITIONS_STAFFS" Association="Self.FK_STAFFS_POSITIONS_STAFFS">
+      <End Role="STAFFS" EntitySet="STAFFS" />
+      <End Role="STAFFS_POSITIONS" EntitySet="STAFFS_POSITIONS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_STRUCTURE_DETAILS_dbo_STRUCTURES_StructureID" Association="Self.FK_dbo_STRUCTURE_DETAILS_dbo_STRUCTURES_StructureID">
+      <End Role="STRUCTURES" EntitySet="STRUCTURES" />
+      <End Role="STRUCTURE_DETAILS" EntitySet="STRUCTURE_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_STRUCTURE_DETAILS_dbo_TOPICS_TopicID" Association="Self.FK_dbo_STRUCTURE_DETAILS_dbo_TOPICS_TopicID">
+      <End Role="TOPICS" EntitySet="TOPICS" />
+      <End Role="STRUCTURE_DETAILS" EntitySet="STRUCTURE_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TESTS_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_TESTS_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="TESTS" EntitySet="TESTS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TOPICS_dbo_SUBJECTS_SubjectID" Association="Self.FK_dbo_TOPICS_dbo_SUBJECTS_SubjectID">
+      <End Role="SUBJECTS" EntitySet="SUBJECTS" />
+      <End Role="TOPICS" EntitySet="TOPICS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TEST_DETAILS_dbo_TESTS_TestID" Association="Self.FK_dbo_TEST_DETAILS_dbo_TESTS_TestID">
+      <End Role="TESTS" EntitySet="TESTS" />
+      <End Role="TEST_DETAILS" EntitySet="TEST_DETAILS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_TOPICS_STAFFS_dbo_TOPICS_TopicID" Association="Self.FK_dbo_TOPICS_STAFFS_dbo_TOPICS_TopicID">
+      <End Role="TOPICS" EntitySet="TOPICS" />
+      <End Role="TOPICS_STAFFS" EntitySet="TOPICS_STAFFS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_dbo_VIOLATIONS_CONTESTANTS_dbo_VIOLATIONS_ViolationID" Association="Self.FK_dbo_VIOLATIONS_CONTESTANTS_dbo_VIOLATIONS_ViolationID">
+      <End Role="VIOLATIONS" EntitySet="VIOLATIONS" />
+      <End Role="VIOLATIONS_CONTESTANTS" EntitySet="VIOLATIONS_CONTESTANTS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

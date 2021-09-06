@@ -1,0 +1,8 @@
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\bin\Release\NetSDKCS.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\bin\Release\NetSDKCS.pdb
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\obj\Release\NetSDKCS.dll
+D:\Projects\EXON\Main\GeneralManagement\WF.Presentation\NetSDKCS\obj\Release\NetSDKCS.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Release\NetSDKCS.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Release\NetSDKCS.pdb
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Release\NetSDKCS.dll
+D:\main12-3\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Release\NetSDKCS.pdb
