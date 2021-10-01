@@ -454,3 +454,18 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Services.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Services.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Services.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Persistance.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Persistance.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\CL.Persistance.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\CL.Services\obj\Debug\CL.Services.pdb

@@ -563,3 +563,32 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.csproj.GenerateResource.Cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.exe
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Register.exe.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Register.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Register.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Common.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Data.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Model.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\MetroFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\DevelopmentTool.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\log4net.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Common.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Data.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Data.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Model.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EXON.Model.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.frmInfoRegister.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.frmRegister.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.frmTakePhoto.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.Properties.Resources.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.csproj.GenerateResource.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Register\obj\Debug\EXON.Register.pdb

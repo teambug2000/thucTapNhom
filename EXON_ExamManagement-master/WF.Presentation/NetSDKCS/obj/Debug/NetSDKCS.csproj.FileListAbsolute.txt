@@ -99,3 +99,9 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\bin\Debug\NetSDKCS.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\NetSDKCS\obj\Debug\NetSDKCS.pdb

@@ -396,3 +396,24 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Data.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Data.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Data.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Common.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Model.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\MetroFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\DevelopmentTool.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\log4net.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Common.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Model.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EXON.Model.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Data\obj\Debug\EXON.Data.pdb

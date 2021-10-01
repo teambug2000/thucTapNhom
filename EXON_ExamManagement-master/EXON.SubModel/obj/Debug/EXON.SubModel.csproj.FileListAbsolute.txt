@@ -246,3 +246,16 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EXON.SubModel.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\DevelopmentTool.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.SubModel\obj\Debug\EXON.SubModel.pdb

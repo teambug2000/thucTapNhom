@@ -476,3 +476,26 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.exe.licenses
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.exe
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\bin\Debug\ExamManagement.exe.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\bin\Debug\ExamManagement.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\bin\Debug\ExamManagement.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmChucVuCanBo.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmChucVuHoiDongThi.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmCanBo.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmKetNoiCSDL.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmLoaiCauHoi.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmLoaiViPham.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmHocPhan.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmChucVu.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmHocHamHocVi.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmDonVi.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmLogin.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.GUI.FrmMain.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.Properties.Resources.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.csproj.GenerateResource.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.exe.licenses
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\ExamManagement\obj\Debug\ExamManagement.pdb
