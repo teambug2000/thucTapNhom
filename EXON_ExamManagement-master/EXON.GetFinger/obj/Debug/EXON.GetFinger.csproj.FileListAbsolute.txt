@@ -461,3 +461,28 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.csproj.GenerateResource.Cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.exe
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.GetFinger.exe.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.GetFinger.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.GetFinger.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Common.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Data.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Model.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\MetroFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\DevelopmentTool.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\log4net.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Common.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Data.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Data.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Model.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EXON.Model.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.frmGetFingerPrinter.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.Properties.Resources.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.csproj.GenerateResource.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.GetFinger\obj\Debug\EXON.GetFinger.pdb

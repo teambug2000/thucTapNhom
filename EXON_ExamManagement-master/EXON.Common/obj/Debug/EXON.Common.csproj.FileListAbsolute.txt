@@ -207,3 +207,16 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.Cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\bin\Debug\EXON.Common.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\bin\Debug\DevelopmentTool.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\bin\Debug\MetroFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.NotificationBox.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreen.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.SplashScreenManager.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.GenerateResource.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Common\obj\Debug\EXON.Common.pdb

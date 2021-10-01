@@ -275,3 +275,21 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\BUS.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\BUS.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\BUS.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\DAO.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EntityFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EXON.Model.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EXON.Model.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EXON.Model.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\DAO.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\DAO.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EntityFramework.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\EXONSYSTEM -Main\BUS\obj\Debug\BUS.pdb

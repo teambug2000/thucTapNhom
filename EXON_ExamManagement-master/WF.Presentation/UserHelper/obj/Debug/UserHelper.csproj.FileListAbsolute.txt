@@ -156,3 +156,9 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojResolveAssemblyReference.cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\bin\Debug\UserHelper.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\UserHelper\obj\Debug\UserHelper.pdb

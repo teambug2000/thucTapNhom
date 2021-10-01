@@ -435,3 +435,24 @@ P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.csproj.GenerateResource.Cache
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\Demo.exe
 P:\EXON\DGNL 2020\EXON_DGNL_DaGhepSinhDe\Hoanthien-1-9-2018\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\Demo.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\Demo.exe.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\Demo.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\Demo.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Persistance.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Services.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\MetroFramework.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\MetroFramework.Fonts.dll
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Persistance.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Persistance.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Services.pdb
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\bin\Debug\CL.Services.dll.config
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.csprojAssemblyReference.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.frmGetFingerPrinter.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.frmIdentifyFinger.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.Properties.Resources.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.Test.resources
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.csproj.GenerateResource.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.csproj.CoreCompileInputs.cache
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\RM.GetFinger.csproj.CopyComplete
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\Demo.exe
+D:\HK1N4\Phuong\EXON_ExamManagement-master\WF.Presentation\Demo\obj\Debug\Demo.pdb
