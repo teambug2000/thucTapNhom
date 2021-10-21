@@ -303,7 +303,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="account.json" />
     <None Include="Module\Report\DataSetReport.xsc">
       <DependentUpon>DataSetReport.xsd</DependentUpon>
     </None>

@@ -250,7 +250,6 @@ D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\bin\Debug\EntityFramework.
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\bin\Debug\EntityFramework.SqlServer.dll
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\bin\Debug\EntityFramework.xml
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\bin\Debug\EntityFramework.SqlServer.xml
-D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\obj\Debug\EXON.Model.csprojAssemblyReference.cache
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\obj\Debug\EXON.Model.csproj.CoreCompileInputs.cache
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\obj\Debug\EXON.Model.csproj.CopyComplete
 D:\HK1N4\Phuong\EXON_ExamManagement-master\EXON.Model\obj\Debug\EXON.Model.dll
